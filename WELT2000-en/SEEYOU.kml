@@ -1,0 +1,4331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>Abingdon (79m)</name>
+            <description>freq = 130.250: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-1.3166666666666667</longitude>
+                <latitude>51.69028333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_0">
+                <coordinates>-1.3166666666666667,51.69028333333333,79</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Alconbury (48m)</name>
+            <description>freq = 122.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-0.21971666666666667</longitude>
+                <latitude>52.37445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_1">
+                <coordinates>-0.21971666666666667,52.37445,48</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Alderney (88m)</name>
+            <description>freq = 125.350: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-2.2147166666666664</longitude>
+                <latitude>49.70611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_2">
+                <coordinates>-2.2147166666666664,49.70611666666667,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Andrewsfield (88m)</name>
+            <description>freq = 130.550: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>0.44916666666666666</longitude>
+                <latitude>51.895</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_3">
+                <coordinates>0.44916666666666666,51.895,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>Ashbourne (166m)</name>
+            <description>freq = : desc = Flugplatz                   </description>
+            <LookAt>
+                <longitude>-1.7002833333333334</longitude>
+                <latitude>53.00195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_4">
+                <coordinates>-1.7002833333333334,53.00195,166</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Aston Down Gld (183m)</name>
+            <description>freq = 130.100: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-2.13195</longitude>
+                <latitude>51.70583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_5">
+                <coordinates>-2.13195,51.70583333333333,183</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>Audley End (85m)</name>
+            <description>freq = 122.350: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>0.22416666666666665</longitude>
+                <latitude>52.00805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_6">
+                <coordinates>0.22416666666666665,52.00805,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>Bagby Thirsk Prv (49m)</name>
+            <description>freq = 123.250: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.29</longitude>
+                <latitude>54.21111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_7">
+                <coordinates>-1.29,54.21111666666667,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>Ballkelly (1m)</name>
+            <description>freq = : desc = Flugplatz                    </description>
+            <LookAt>
+                <longitude>-7.01555</longitude>
+                <latitude>55.05916666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_8">
+                <coordinates>-7.01555,55.05916666666667,1</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Badminton (151m)</name>
+            <description>freq = 123.175: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-2.3016666666666667</longitude>
+                <latitude>51.54833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_9">
+                <coordinates>-2.3016666666666667,51.54833333333333,151</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Barkston Heath (113m)</name>
+            <description>freq = 120.425: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-0.5616666666666668</longitude>
+                <latitude>52.96221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_10">
+                <coordinates>-0.5616666666666668,52.96221666666667,113</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Barrow Walne Gld (12m)</name>
+            <description>freq = 123.200: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-3.2675</longitude>
+                <latitude>54.128883333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_11">
+                <coordinates>-3.2675,54.128883333333334,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Beccles (24m)</name>
+            <description>freq = : desc = Flugplatz                      </description>
+            <LookAt>
+                <longitude>1.6002833333333335</longitude>
+                <latitude>52.43555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_12">
+                <coordinates>1.6002833333333335,52.43555,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Bedford Cas Cls (24m)</name>
+            <description>freq = : desc = Landefeld             </description>
+            <LookAt>
+                <longitude>-0.40778333333333333</longitude>
+                <latitude>52.14361666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_13">
+                <coordinates>-0.40778333333333333,52.14361666666667,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Bedford Thur Gld (89m)</name>
+            <description>freq = 130.000: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-0.46305</longitude>
+                <latitude>52.23083333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_14">
+                <coordinates>-0.46305,52.23083333333334,89</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Belfast City (6m)</name>
+            <description>freq = 122.825: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-5.8725000000000005</longitude>
+                <latitude>54.61805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_15">
+                <coordinates>-5.8725000000000005,54.61805,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>Bembridge (15m)</name>
+            <description>freq = 123.250: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-1.10945</longitude>
+                <latitude>50.67805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_16">
+                <coordinates>-1.10945,50.67805,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Benson8 (70m)</name>
+            <description>freq = 127.150: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-1.0958333333333334</longitude>
+                <latitude>51.61638333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_17">
+                <coordinates>-1.0958333333333334,51.61638333333333,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Bentwaters (26m)</name>
+            <description>freq = 122.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>1.4347166666666666</longitude>
+                <latitude>52.1275</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_18">
+                <coordinates>1.4347166666666666,52.1275,26</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>Beverley Linley (3m)</name>
+            <description>freq = : desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-0.36138333333333333</longitude>
+                <latitude>53.89833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_19">
+                <coordinates>-0.36138333333333333,53.89833333333333,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>Belle Vue Ul (206m)</name>
+            <description>freq = : desc = Landefeld               </description>
+            <LookAt>
+                <longitude>-4.09</longitude>
+                <latitude>50.475</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_20">
+                <coordinates>-4.09,50.475,206</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>Bicester (81m)</name>
+            <description>freq = : desc = Flugplatz                     </description>
+            <LookAt>
+                <longitude>-1.13195</longitude>
+                <latitude>51.916666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_21">
+                <coordinates>-1.13195,51.916666666666664,81</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Bidford (41m)</name>
+            <description>freq = 130.100: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-1.8491666666666666</longitude>
+                <latitude>52.138616666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_22">
+                <coordinates>-1.8491666666666666,52.138616666666664,41</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Biggin1Hill (183m)</name>
+            <description>freq = 134.800: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>0.0325</longitude>
+                <latitude>51.33083333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_23">
+                <coordinates>0.0325,51.33083333333333,183</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Birmingham Gb (101m)</name>
+            <description>freq = 118.300: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.74805</longitude>
+                <latitude>52.45388333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_24">
+                <coordinates>-1.74805,52.45388333333333,101</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>Bishops C (11m)</name>
+            <description>freq = : desc = Flugplatz                   </description>
+            <LookAt>
+                <longitude>-5.577216666666667</longitude>
+                <latitude>54.3025</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_25">
+                <coordinates>-5.577216666666667,54.3025,11</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>Blackbushe (101m)</name>
+            <description>freq = 122.300: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-0.8475</longitude>
+                <latitude>51.323883333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_26">
+                <coordinates>-0.8475,51.323883333333335,101</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>Blackpool (9m)</name>
+            <description>freq = 118.400: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-3.0286166666666667</longitude>
+                <latitude>53.77166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_27">
+                <coordinates>-3.0286166666666667,53.77166666666667,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>Bodmin (198m)</name>
+            <description>freq = 122.700: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-4.6658333333333335</longitude>
+                <latitude>50.499716666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_28">
+                <coordinates>-4.6658333333333335,50.499716666666664,198</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>Bognor Re (1m)</name>
+            <description>freq = : desc = Flugplatz                     </description>
+            <LookAt>
+                <longitude>-0.6586166666666667</longitude>
+                <latitude>50.80166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_29">
+                <coordinates>-0.6586166666666667,50.80166666666667,1</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>Boscombe Down (125m)</name>
+            <description>freq = 130.750: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.7472166666666666</longitude>
+                <latitude>51.15221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_30">
+                <coordinates>-1.7472166666666666,51.15221666666667,125</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>Bournemouth (12m)</name>
+            <description>freq = 125.600: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.8424999999999998</longitude>
+                <latitude>50.78</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_31">
+                <coordinates>-1.8424999999999998,50.78,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Bourn (70m)</name>
+            <description>freq = 129.800: desc = Flugplatz                 </description>
+            <LookAt>
+                <longitude>-0.042499999999999996</longitude>
+                <latitude>52.21055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_32">
+                <coordinates>-0.042499999999999996,52.21055,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>Bovington Gld (65m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-2.219716666666667</longitude>
+                <latitude>50.70805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_33">
+                <coordinates>-2.219716666666667,50.70805,65</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>Breighton (7m)</name>
+            <description>freq = 129.800: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.9066666666666666</longitude>
+                <latitude>53.806666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_34">
+                <coordinates>-0.9066666666666666,53.806666666666665,7</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>Brent Tor Gld (256m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-4.145283333333333</longitude>
+                <latitude>50.592216666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_35">
+                <coordinates>-4.145283333333333,50.592216666666666,256</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>Bristol Filton (70m)</name>
+            <description>freq = 132.350: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-2.5908333333333333</longitude>
+                <latitude>51.51945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_36">
+                <coordinates>-2.5908333333333333,51.51945,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Bristol (189m)</name>
+            <description>freq = 121.925: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-2.7191666666666667</longitude>
+                <latitude>51.382783333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_37">
+                <coordinates>-2.7191666666666667,51.382783333333336,189</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>Brize Norton (88m)</name>
+            <description>freq = 123.725: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.5836166666666667</longitude>
+                <latitude>51.75</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_38">
+                <coordinates>-1.5836166666666667,51.75,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>Brough (3m)</name>
+            <description>freq = 130.550: desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-0.5663833333333332</longitude>
+                <latitude>53.71971666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_39">
+                <coordinates>-0.5663833333333332,53.71971666666666,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>Bruntingthorpe C (145m)</name>
+            <description>freq = : desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-1.1322166666666666</longitude>
+                <latitude>52.49138333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_40">
+                <coordinates>-1.1322166666666666,52.49138333333333,145</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>Bryngwn Bach Gld (209m)</name>
+            <description>freq = 130.100: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-3.3558333333333334</longitude>
+                <latitude>53.27028333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_41">
+                <coordinates>-3.3558333333333334,53.27028333333333,209</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>Burn Gld (6m)</name>
+            <description>freq = 130.100: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-1.0838833333333333</longitude>
+                <latitude>53.74361666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_42">
+                <coordinates>-1.0838833333333333,53.74361666666667,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>Caernarfon (3m)</name>
+            <description>freq = 122.250: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-4.340283333333334</longitude>
+                <latitude>53.104166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_43">
+                <coordinates>-4.340283333333334,53.104166666666664,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>Cambridge (15m)</name>
+            <description>freq = 122.200: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>0.175</longitude>
+                <latitude>52.205</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_44">
+                <coordinates>0.175,52.205,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>Camphill Gld (401m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.7302833333333334</longitude>
+                <latitude>53.304716666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_45">
+                <coordinates>-1.7302833333333334,53.304716666666664,401</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>Campbeltown (12m)</name>
+            <description>freq = : desc = Flugplatz                 </description>
+            <LookAt>
+                <longitude>-5.686383333333334</longitude>
+                <latitude>55.437216666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_46">
+                <coordinates>-5.686383333333334,55.437216666666664,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>Cardiff (67m)</name>
+            <description>freq = 125.000: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-3.3433333333333333</longitude>
+                <latitude>51.39666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_47">
+                <coordinates>-3.3433333333333333,51.39666666666667,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>Carlisle (58m)</name>
+            <description>freq = 123.600: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-2.8091666666666666</longitude>
+                <latitude>54.9375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_48">
+                <coordinates>-2.8091666666666666,54.9375,58</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>Carlton Gld (366m)</name>
+            <description>freq = 130.100: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.205</longitude>
+                <latitude>54.41</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_49">
+                <coordinates>-1.205,54.41,366</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>Canterbury Ul (95m)</name>
+            <description>freq = 129.825: desc = Landefeld        </description>
+            <LookAt>
+                <longitude>1.0008333333333332</longitude>
+                <latitude>51.29278333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_50">
+                <coordinates>1.0008333333333332,51.29278333333333,95</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>Chalgrove U King (73m)</name>
+            <description>freq = 125.400: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-1.0852833333333334</longitude>
+                <latitude>51.67445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_51">
+                <coordinates>-1.0852833333333334,51.67445,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>Chichester (34m)</name>
+            <description>freq = 122.450: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-0.7591666666666667</longitude>
+                <latitude>50.85945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_52">
+                <coordinates>-0.7591666666666667,50.85945,34</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>Chipping Gld (190m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-2.6208333333333336</longitude>
+                <latitude>53.886116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_53">
+                <coordinates>-2.6208333333333336,53.886116666666666,190</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>Chivenor A F R W (9m)</name>
+            <description>freq = 130.200: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-4.150283333333333</longitude>
+                <latitude>51.08721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_54">
+                <coordinates>-4.150283333333333,51.08721666666667,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>Chipping Warden (78m)</name>
+            <description>freq = : desc = Landefeld             </description>
+            <LookAt>
+                <longitude>-1.27695</longitude>
+                <latitude>52.145</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_55">
+                <coordinates>-1.27695,52.145,78</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>Challock Gld (183m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>0.8283333333333334</longitude>
+                <latitude>51.208616666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_56">
+                <coordinates>0.8283333333333334,51.208616666666664,183</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>Church Fenton (9m)</name>
+            <description>freq = 122.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.19555</longitude>
+                <latitude>53.83445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_57">
+                <coordinates>-1.19555,53.83445,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>Clacton (12m)</name>
+            <description>freq = 122.325: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>1.13</longitude>
+                <latitude>51.785</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_58">
+                <coordinates>1.13,51.785,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>Colerne Mil (180m)</name>
+            <description>freq = 120.075: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-2.2800000000000002</longitude>
+                <latitude>51.44083333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_59">
+                <coordinates>-2.2800000000000002,51.44083333333333,180</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>Coltishall (21m)</name>
+            <description>freq = 122.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>1.3577833333333333</longitude>
+                <latitude>52.75471666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_60">
+                <coordinates>1.3577833333333333,52.75471666666667,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>Compton Abbas (247m)</name>
+            <description>freq = 122.700: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-2.1536166666666667</longitude>
+                <latitude>50.967216666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_61">
+                <coordinates>-2.1536166666666667,50.967216666666666,247</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>Coningsby (6m)</name>
+            <description>freq = 122.100: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-0.16583333333333333</longitude>
+                <latitude>53.09305</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_62">
+                <coordinates>-0.16583333333333333,53.09305,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>Cosford (82m)</name>
+            <description>freq = 128.650: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-2.30555</longitude>
+                <latitude>52.64</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_63">
+                <coordinates>-2.30555,52.64,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>Cottesmore (140m)</name>
+            <description>freq = 122.100: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-0.6486166666666667</longitude>
+                <latitude>52.73583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_64">
+                <coordinates>-0.6486166666666667,52.73583333333333,140</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>Coventry (82m)</name>
+            <description>freq = 119.250: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-1.4797166666666666</longitude>
+                <latitude>52.36971666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_65">
+                <coordinates>-1.4797166666666666,52.36971666666667,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>Cranfield Gld (110m)</name>
+            <description>freq = 122.850: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-0.6166666666666667</longitude>
+                <latitude>52.07221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_66">
+                <coordinates>-0.6166666666666667,52.07221666666667,110</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>Cranwell (67m)</name>
+            <description>freq = 125.050: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-0.48333333333333334</longitude>
+                <latitude>53.03028333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_67">
+                <coordinates>-0.48333333333333334,53.03028333333334,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>Cromer Northrepp (53m)</name>
+            <description>freq = 129.825: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>1.3297166666666667</longitude>
+                <latitude>52.90221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_68">
+                <coordinates>1.3297166666666667,52.90221666666667,53</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>Cross Hayes Gld (98m)</name>
+            <description>freq = 130.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.8216666666666668</longitude>
+                <latitude>52.794716666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_69">
+                <coordinates>-1.8216666666666668,52.794716666666666,98</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>Crowfield (61m)</name>
+            <description>freq = 122.775: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>1.1111166666666668</longitude>
+                <latitude>52.17111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_70">
+                <coordinates>1.1111166666666668,52.17111666666667,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>Crowland Eas Gld (3m)</name>
+            <description>freq = 130.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-0.13861666666666667</longitude>
+                <latitude>52.71</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_71">
+                <coordinates>-0.13861666666666667,52.71,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>Culdrose (82m)</name>
+            <description>freq = 122.100: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-5.255833333333333</longitude>
+                <latitude>50.08611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_72">
+                <coordinates>-5.255833333333333,50.08611666666667,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>Cumbernauld (107m)</name>
+            <description>freq = 120.600: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-3.97555</longitude>
+                <latitude>55.974716666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_73">
+                <coordinates>-3.97555,55.974716666666666,107</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>Currock Hill Gld (252m)</name>
+            <description>freq = 130.100: desc = Flugplatz    </description>
+            <LookAt>
+                <longitude>-1.8444500000000001</longitude>
+                <latitude>54.93333333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_74">
+                <coordinates>-1.8444500000000001,54.93333333333333,252</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>Damyns Hall (18m)</name>
+            <description>freq = : desc = Flugplatz                  </description>
+            <LookAt>
+                <longitude>0.24555000000000002</longitude>
+                <latitude>51.528616666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_75">
+                <coordinates>0.24555000000000002,51.528616666666665,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>Deanland Lewes (21m)</name>
+            <description>freq = 129.725: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>0.15638333333333332</longitude>
+                <latitude>50.878883333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_76">
+                <coordinates>0.15638333333333332,50.878883333333334,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>Deenethorpe (100m)</name>
+            <description>freq = 127.575: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-0.5891666666666667</longitude>
+                <latitude>52.50638333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_77">
+                <coordinates>-0.5891666666666667,52.50638333333333,100</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>Denham (76m)</name>
+            <description>freq = 130.725: desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-0.51305</longitude>
+                <latitude>51.58833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_78">
+                <coordinates>-0.51305,51.58833333333333,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>Deptford Down (161m)</name>
+            <description>freq = 129.750: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-1.9633333333333334</longitude>
+                <latitude>51.17361666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_79">
+                <coordinates>-1.9633333333333334,51.17361666666667,161</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>Derby Gb (55m)</name>
+            <description>freq = 118.350: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-1.6175</longitude>
+                <latitude>52.859716666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_80">
+                <coordinates>-1.6175,52.859716666666664,55</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>Dishforth A F R (37m)</name>
+            <description>freq = 122.100: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.4202833333333333</longitude>
+                <latitude>54.13721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_81">
+                <coordinates>-1.4202833333333333,54.13721666666667,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>Doncaster Sheffi (18m)</name>
+            <description>freq = 128.775: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-1.00445</longitude>
+                <latitude>53.474716666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_82">
+                <coordinates>-1.00445,53.474716666666666,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>Dunkeswell (256m)</name>
+            <description>freq = 123.475: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-3.2347166666666665</longitude>
+                <latitude>50.86</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_83">
+                <coordinates>-3.2347166666666665,50.86,256</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>Dunsfold (52m)</name>
+            <description>freq = 124.325: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-0.5358333333333333</longitude>
+                <latitude>51.117216666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_84">
+                <coordinates>-0.5358333333333333,51.117216666666664,52</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>Dunstable Gld (152m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-0.54695</longitude>
+                <latitude>51.868883333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_85">
+                <coordinates>-0.54695,51.868883333333336,152</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>Durham Tees Vall (37m)</name>
+            <description>freq = 119.800: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-1.42945</longitude>
+                <latitude>54.509166666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_86">
+                <coordinates>-1.42945,54.509166666666665,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>DuXFord (40m)</name>
+            <description>freq = 122.075: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>0.13194999999999998</longitude>
+                <latitude>52.090833333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_87">
+                <coordinates>0.13194999999999998,52.090833333333336,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>Eaglescott Gld (201m)</name>
+            <description>freq = 123.000: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-3.9894499999999997</longitude>
+                <latitude>50.92861666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_88">
+                <coordinates>-3.9894499999999997,50.92861666666667,201</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>Earls Colne (70m)</name>
+            <description>freq = 122.425: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>0.6825</longitude>
+                <latitude>51.91445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_89">
+                <coordinates>0.6825,51.91445,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>Edgehill Gld (196m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.4747166666666667</longitude>
+                <latitude>52.08195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_90">
+                <coordinates>-1.4747166666666667,52.08195,196</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>Edinburgh (43m)</name>
+            <description>freq = 118.700: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-3.3725</longitude>
+                <latitude>55.95</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_91">
+                <coordinates>-3.3725,55.95,43</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>Elmsett (76m)</name>
+            <description>freq = : desc = Flugplatz                      </description>
+            <LookAt>
+                <longitude>0.9777833333333333</longitude>
+                <latitude>52.07555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_92">
+                <coordinates>0.9777833333333333,52.07555,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>Elstree (101m)</name>
+            <description>freq = 122.400: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.32583333333333336</longitude>
+                <latitude>51.655833333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_93">
+                <coordinates>-0.32583333333333336,51.655833333333334,101</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>Enniskillen Ange (49m)</name>
+            <description>freq = 123.200: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-7.65195</longitude>
+                <latitude>54.39861666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_94">
+                <coordinates>-7.65195,54.39861666666667,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>Enstone (169m)</name>
+            <description>freq = 129.875: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-1.4286166666666666</longitude>
+                <latitude>51.93111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_95">
+                <coordinates>-1.4286166666666666,51.93111666666667,169</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>Eshott (60m)</name>
+            <description>freq = : desc = Flugplatz                       </description>
+            <LookAt>
+                <longitude>-1.7144499999999998</longitude>
+                <latitude>55.280833333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_96">
+                <coordinates>-1.7144499999999998,55.280833333333334,60</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>EXEter (31m)</name>
+            <description>freq = 119.800: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-3.413883333333333</longitude>
+                <latitude>50.73445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_97">
+                <coordinates>-3.413883333333333,50.73445,31</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>Fadmoor Wrong (238m)</name>
+            <description>freq = 123.225: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-0.9736166666666667</longitude>
+                <latitude>54.308616666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_98">
+                <coordinates>-0.9736166666666667,54.308616666666666,238</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>Fairford Gb (88m)</name>
+            <description>freq = 119.150: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.79</longitude>
+                <latitude>51.68221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_99">
+                <coordinates>-1.79,51.68221666666667,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>Fairoaks (24m)</name>
+            <description>freq = 123.425: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.5588833333333334</longitude>
+                <latitude>51.34805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_100">
+                <coordinates>-0.5588833333333334,51.34805,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>Falgunzeon Gld (59m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-3.740283333333333</longitude>
+                <latitude>54.94638333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_101">
+                <coordinates>-3.740283333333333,54.94638333333333,59</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>Farnborough (73m)</name>
+            <description>freq = 122.500: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-0.7763833333333333</longitude>
+                <latitude>51.27583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_102">
+                <coordinates>-0.7763833333333333,51.27583333333333,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>Farthing Stoneac (128m)</name>
+            <description>freq = : desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>0.6011166666666666</longitude>
+                <latitude>51.33055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_103">
+                <coordinates>0.6011166666666666,51.33055,128</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>Felthorpe Gld (39m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>1.19445</longitude>
+                <latitude>52.7075</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_104">
+                <coordinates>1.19445,52.7075,39</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>Fenland (3m)</name>
+            <description>freq = 122.925: desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-0.030000000000000002</longitude>
+                <latitude>52.73945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_105">
+                <coordinates>-0.030000000000000002,52.73945,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>Fowlmere (37m)</name>
+            <description>freq = 135.700: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>0.06166666666666667</longitude>
+                <latitude>52.0775</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_106">
+                <coordinates>0.06166666666666667,52.0775,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>Full Sutton (28m)</name>
+            <description>freq = : desc = Flugplatz                  </description>
+            <LookAt>
+                <longitude>-0.8647166666666667</longitude>
+                <latitude>53.98055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_107">
+                <coordinates>-0.8647166666666667,53.98055,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>Gigha (9m)</name>
+            <description>freq = : desc = Flugplatz                         </description>
+            <LookAt>
+                <longitude>-5.75695</longitude>
+                <latitude>55.65445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_108">
+                <coordinates>-5.75695,55.65445,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>Glasgow (9m)</name>
+            <description>freq = 118.800: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-4.43305</longitude>
+                <latitude>55.87195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_109">
+                <coordinates>-4.43305,55.87195,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>Gloucestershire (31m)</name>
+            <description>freq = 122.900: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-2.1672166666666666</longitude>
+                <latitude>51.89416666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_110">
+                <coordinates>-2.1672166666666666,51.89416666666666,31</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>Great Ashfield C (61m)</name>
+            <description>freq = : desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>0.9358333333333333</longitude>
+                <latitude>52.257216666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_111">
+                <coordinates>0.9358333333333333,52.257216666666665,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>Gransden Gld (77m)</name>
+            <description>freq = 130.100: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-0.11471666666666666</longitude>
+                <latitude>52.179716666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_112">
+                <coordinates>-0.11471666666666666,52.179716666666664,77</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>Great Massingham (88m)</name>
+            <description>freq = : desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>0.6775</longitude>
+                <latitude>52.779716666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_113">
+                <coordinates>0.6775,52.779716666666666,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>Haffotty Gld (370m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-3.7472166666666666</longitude>
+                <latitude>53.20695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_114">
+                <coordinates>-3.7472166666666666,53.20695,370</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>Halesland Gld (265m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-2.73445</longitude>
+                <latitude>51.263333333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_115">
+                <coordinates>-2.73445,51.263333333333335,265</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>Halton (113m)</name>
+            <description>freq = 130.425: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.7377833333333333</longitude>
+                <latitude>51.7925</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_116">
+                <coordinates>-0.7377833333333333,51.7925,113</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>Hatfield Old (77m)</name>
+            <description>freq = 130.800: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-0.2533333333333333</longitude>
+                <latitude>51.765283333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_117">
+                <coordinates>-0.2533333333333333,51.765283333333336,77</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>Haverfordwest (49m)</name>
+            <description>freq = 122.200: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-4.961116666666666</longitude>
+                <latitude>51.83305</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_118">
+                <coordinates>-4.961116666666666,51.83305,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>Hawarden (15m)</name>
+            <description>freq = 124.950: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-2.9777833333333334</longitude>
+                <latitude>53.17805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_119">
+                <coordinates>-2.9777833333333334,53.17805,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>Henlow (52m)</name>
+            <description>freq = 121.100: desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-0.30388333333333334</longitude>
+                <latitude>52.01833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_120">
+                <coordinates>-0.30388333333333334,52.01833333333333,52</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>Henstridge U Kin (55m)</name>
+            <description>freq = 127.350: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-2.358616666666667</longitude>
+                <latitude>50.98833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_121">
+                <coordinates>-2.358616666666667,50.98833333333333,55</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>Hethel Cls (49m)</name>
+            <description>freq = 122.350: desc = Landefeld           </description>
+            <LookAt>
+                <longitude>1.1808333333333334</longitude>
+                <latitude>52.566116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_122">
+                <coordinates>1.1808333333333334,52.566116666666666,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>Hibaldstow (9m)</name>
+            <description>freq = 123.425: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-0.5191666666666667</longitude>
+                <latitude>53.49721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_123">
+                <coordinates>-0.5191666666666667,53.49721666666667,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>High Easter (73m)</name>
+            <description>freq = : desc = Flugplatz                  </description>
+            <LookAt>
+                <longitude>0.3416666666666667</longitude>
+                <latitude>51.80611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_124">
+                <coordinates>0.3416666666666667,51.80611666666667,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>Hinton Hedge Gld (149m)</name>
+            <description>freq = 130.100: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-1.20945</longitude>
+                <latitude>52.02805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_125">
+                <coordinates>-1.20945,52.02805,149</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>Honington Old Af (52m)</name>
+            <description>freq = : desc = Landefeld           </description>
+            <LookAt>
+                <longitude>0.7738833333333334</longitude>
+                <latitude>52.34305</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_126">
+                <coordinates>0.7738833333333334,52.34305,52</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>Hucknall (85m)</name>
+            <description>freq = 130.800: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-1.2183333333333333</longitude>
+                <latitude>53.01445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_127">
+                <coordinates>-1.2183333333333333,53.01445,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>Huddersfield (250m)</name>
+            <description>freq = 122.200: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.8313833333333334</longitude>
+                <latitude>53.621116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_128">
+                <coordinates>-1.8313833333333334,53.621116666666666,250</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>Hull Burton Cons (18m)</name>
+            <description>freq = : desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-0.19305</longitude>
+                <latitude>53.8075</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_129">
+                <coordinates>-0.19305,53.8075,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>Hullavington (104m)</name>
+            <description>freq = : desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-2.141383333333333</longitude>
+                <latitude>51.526383333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_130">
+                <coordinates>-2.141383333333333,51.526383333333335,104</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>Humerside (37m)</name>
+            <description>freq = 119.125: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-0.35083333333333333</longitude>
+                <latitude>53.57445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_131">
+                <coordinates>-0.35083333333333333,53.57445,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>Husbands Gld (156m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.04305</longitude>
+                <latitude>52.43528333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_132">
+                <coordinates>-1.04305,52.43528333333333,156</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>Huton Cra (32m)</name>
+            <description>freq = : desc = Flugplatz                    </description>
+            <LookAt>
+                <longitude>-0.4688833333333333</longitude>
+                <latitude>53.95138333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_133">
+                <coordinates>-0.4688833333333333,53.95138333333333,32</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>Islay (18m)</name>
+            <description>freq = 123.150: desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-6.256666666666667</longitude>
+                <latitude>55.68195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_134">
+                <coordinates>-6.256666666666667,55.68195,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>Isle Of Man (15m)</name>
+            <description>freq = 118.900: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-4.623883333333334</longitude>
+                <latitude>54.083333333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_135">
+                <coordinates>-4.623883333333334,54.083333333333336,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>Isle Of Wight Sa (18m)</name>
+            <description>freq = 119.275: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.1822166666666667</longitude>
+                <latitude>50.65305</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_136">
+                <coordinates>-1.1822166666666667,50.65305,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>Keevil A F R Ws (49m)</name>
+            <description>freq = : desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-2.108616666666667</longitude>
+                <latitude>51.31583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_137">
+                <coordinates>-2.108616666666667,51.31583333333333,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>Kemble (131m)</name>
+            <description>freq = 118.900: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-2.05695</longitude>
+                <latitude>51.66805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_138">
+                <coordinates>-2.05695,51.66805,131</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>Kenley Gld (173m)</name>
+            <description>freq = 130.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-0.09528333333333333</longitude>
+                <latitude>51.303333333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_139">
+                <coordinates>-0.09528333333333333,51.303333333333335,173</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>Kirkbride (11m)</name>
+            <description>freq = : desc = Flugplatz                   </description>
+            <LookAt>
+                <longitude>-3.203333333333333</longitude>
+                <latitude>54.882783333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_140">
+                <coordinates>-3.203333333333333,54.882783333333336,11</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>Kirton Lin Gld (62m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-0.5772166666666667</longitude>
+                <latitude>53.46221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_141">
+                <coordinates>-0.5772166666666667,53.46221666666667,62</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>Lands End St Jus (122m)</name>
+            <description>freq = 120.250: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-5.67055</longitude>
+                <latitude>50.102783333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_142">
+                <coordinates>-5.67055,50.102783333333335,122</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>Langham Gld (26m)</name>
+            <description>freq = 130.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>0.9522166666666667</longitude>
+                <latitude>52.937216666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_143">
+                <coordinates>0.9522166666666667,52.937216666666664,26</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>Lakenheath (9m)</name>
+            <description>freq = 122.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>0.5611166666666667</longitude>
+                <latitude>52.409166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_144">
+                <coordinates>0.5611166666666667,52.409166666666664,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>Langar (38m)</name>
+            <description>freq = 129.900: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-0.9013833333333333</longitude>
+                <latitude>52.892783333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_145">
+                <coordinates>-0.9013833333333333,52.892783333333334,38</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>Lasham Gld (189m)</name>
+            <description>freq = 129.900: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.03195</longitude>
+                <latitude>51.18666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_146">
+                <coordinates>-1.03195,51.18666666666667,189</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>Lashenden Headco (21m)</name>
+            <description>freq = 122.000: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>0.6425</longitude>
+                <latitude>51.156666666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_147">
+                <coordinates>0.6425,51.156666666666666,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>Leavesden (102m)</name>
+            <description>freq = 122.150: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-0.42055000000000003</longitude>
+                <latitude>51.689166666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_148">
+                <coordinates>-0.42055000000000003,51.689166666666665,102</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>Ledbury Velcourt (50m)</name>
+            <description>freq = : desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-2.47445</longitude>
+                <latitude>52.00195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_149">
+                <coordinates>-2.47445,52.00195,50</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>Lee2On Solent A (10m)</name>
+            <description>freq = : desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-1.2122166666666667</longitude>
+                <latitude>50.8125</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_150">
+                <coordinates>-1.2122166666666667,50.8125,10</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>Leeds Bradford (207m)</name>
+            <description>freq = 120.300: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.6605500000000002</longitude>
+                <latitude>53.865833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_151">
+                <coordinates>-1.6605500000000002,53.865833333333335,207</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>Leeming (40m)</name>
+            <description>freq = 120.500: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-1.5352833333333333</longitude>
+                <latitude>54.2925</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_152">
+                <coordinates>-1.5352833333333333,54.2925,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>Lee On Solent (9m)</name>
+            <description>freq = 135.700: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.20695</longitude>
+                <latitude>50.81528333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_153">
+                <coordinates>-1.20695,50.81528333333333,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>Leicester (143m)</name>
+            <description>freq = 122.125: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-1.03195</longitude>
+                <latitude>52.60778333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_154">
+                <coordinates>-1.03195,52.60778333333333,143</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>Linton On Ouse (15m)</name>
+            <description>freq = 122.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.2527833333333334</longitude>
+                <latitude>54.048883333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_155">
+                <coordinates>-1.2527833333333334,54.048883333333336,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>Little Rissingto (222m)</name>
+            <description>freq = : desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-1.6938833333333334</longitude>
+                <latitude>51.8675</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_156">
+                <coordinates>-1.6938833333333334,51.8675,222</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>Little Snoring (59m)</name>
+            <description>freq = 124.150: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>0.9086166666666667</longitude>
+                <latitude>52.86195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_157">
+                <coordinates>0.9086166666666667,52.86195,59</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>Little Gransden (76m)</name>
+            <description>freq = 130.850: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-0.15388333333333334</longitude>
+                <latitude>52.166666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_158">
+                <coordinates>-0.15388333333333334,52.166666666666664,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>Liverpool (24m)</name>
+            <description>freq = 121.950: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-2.8497166666666667</longitude>
+                <latitude>53.333616666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_159">
+                <coordinates>-2.8497166666666667,53.333616666666664,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>Llanbedr (9m)</name>
+            <description>freq = 122.500: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-4.12805</longitude>
+                <latitude>52.80833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_160">
+                <coordinates>-4.12805,52.80833333333333,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>Lleweni Parc Gld (28m)</name>
+            <description>freq = 130.100: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-3.388333333333333</longitude>
+                <latitude>53.22945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_161">
+                <coordinates>-3.388333333333333,53.22945,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>London City (6m)</name>
+            <description>freq = 118.075: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>0.05528333333333334</longitude>
+                <latitude>51.50528333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_162">
+                <coordinates>0.05528333333333334,51.50528333333333,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>London Heathrow (24m)</name>
+            <description>freq = 118.500: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-0.4613833333333333</longitude>
+                <latitude>51.4775</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_163">
+                <coordinates>-0.4613833333333333,51.4775,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>London Luton U K (162m)</name>
+            <description>freq = 126.725: desc = Flugplatz    </description>
+            <LookAt>
+                <longitude>-0.36833333333333335</longitude>
+                <latitude>51.874716666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_164">
+                <coordinates>-0.36833333333333335,51.874716666666664,162</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>London Gatwick (61m)</name>
+            <description>freq = 124.225: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-0.19028333333333333</longitude>
+                <latitude>51.14805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_165">
+                <coordinates>-0.19028333333333333,51.14805,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>Londonderry (6m)</name>
+            <description>freq = 134.150: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-7.161116666666667</longitude>
+                <latitude>55.04278333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_166">
+                <coordinates>-7.161116666666667,55.04278333333333,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>London Stanstedl (107m)</name>
+            <description>freq = 123.800: desc = Flugplatz    </description>
+            <LookAt>
+                <longitude>0.235</longitude>
+                <latitude>51.885</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_167">
+                <coordinates>0.235,51.885,107</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>Long Marston Ul (44m)</name>
+            <description>freq = : desc = Landefeld             </description>
+            <LookAt>
+                <longitude>-1.7522166666666668</longitude>
+                <latitude>52.14111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_168">
+                <coordinates>-1.7522166666666668,52.14111666666667,44</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>Lydd (3m)</name>
+            <description>freq = 128.525: desc = Flugplatz                   </description>
+            <LookAt>
+                <longitude>0.9391666666666667</longitude>
+                <latitude>50.95611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_169">
+                <coordinates>0.9391666666666667,50.95611666666667,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>Lyneham (156m)</name>
+            <description>freq = 119.225: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-1.9936166666666666</longitude>
+                <latitude>51.505</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_170">
+                <coordinates>-1.9936166666666666,51.505,156</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>Lyveden Gld (89m)</name>
+            <description>freq = 130.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-0.575</longitude>
+                <latitude>52.46555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_171">
+                <coordinates>-0.575,52.46555,89</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>Manchester Barto (21m)</name>
+            <description>freq = 120.250: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-2.3897166666666667</longitude>
+                <latitude>53.471666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_172">
+                <coordinates>-2.3897166666666667,53.471666666666664,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>Manchester Manch (79m)</name>
+            <description>freq = 118.625: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-2.275</longitude>
+                <latitude>53.353883333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_173">
+                <coordinates>-2.275,53.353883333333336,79</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>Manchester Woodf (92m)</name>
+            <description>freq = 120.700: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-2.1488833333333335</longitude>
+                <latitude>53.33805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_174">
+                <coordinates>-2.1488833333333335,53.33805,92</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>Manston (55m)</name>
+            <description>freq = 119.925: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>1.3461166666666666</longitude>
+                <latitude>51.342216666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_175">
+                <coordinates>1.3461166666666666,51.342216666666666,55</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>Marham (24m)</name>
+            <description>freq = 122.100: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>0.55055</longitude>
+                <latitude>52.64833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_176">
+                <coordinates>0.55055,52.64833333333333,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>Marston Moor (28m)</name>
+            <description>freq = 122.975: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.30445</longitude>
+                <latitude>53.961666666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_177">
+                <coordinates>-1.30445,53.961666666666666,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>Maypole Maypole (34m)</name>
+            <description>freq = : desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>1.15555</longitude>
+                <latitude>51.33861666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_178">
+                <coordinates>1.15555,51.33861666666667,34</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>Merryfield (46m)</name>
+            <description>freq = 122.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-2.93555</longitude>
+                <latitude>50.9625</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_179">
+                <coordinates>-2.93555,50.9625,46</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>Middle Wallop (88m)</name>
+            <description>freq = 118.275: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-1.5702833333333333</longitude>
+                <latitude>51.14945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_180">
+                <coordinates>-1.5702833333333333,51.14945,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>Mildenhall (9m)</name>
+            <description>freq = 122.550: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>0.48638333333333333</longitude>
+                <latitude>52.36195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_181">
+                <coordinates>0.48638333333333333,52.36195,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>Milfield Gld (45m)</name>
+            <description>freq = 130.100: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-2.089716666666667</longitude>
+                <latitude>55.588883333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_182">
+                <coordinates>-2.089716666666667,55.588883333333335,45</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>Milson (152m)</name>
+            <description>freq = : desc = Flugplatz                      </description>
+            <LookAt>
+                <longitude>-2.5458333333333334</longitude>
+                <latitude>52.361666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_183">
+                <coordinates>-2.5458333333333334,52.361666666666665,152</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>Moat Hall (131m)</name>
+            <description>freq = 122.200: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-1.7986166666666668</longitude>
+                <latitude>52.81721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_184">
+                <coordinates>-1.7986166666666668,52.81721666666667,131</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>Mona (61m)</name>
+            <description>freq = 122.000: desc = Flugplatz                  </description>
+            <LookAt>
+                <longitude>-4.3741666666666665</longitude>
+                <latitude>53.25888333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_185">
+                <coordinates>-4.3741666666666665,53.25888333333333,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>Mynd Gld (415m)</name>
+            <description>freq = 130.100: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-2.88</longitude>
+                <latitude>52.5175</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_186">
+                <coordinates>-2.88,52.5175,415</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>Nesscliffe Camp (77m)</name>
+            <description>freq = 124.150: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-2.9513833333333332</longitude>
+                <latitude>52.76721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_187">
+                <coordinates>-2.9513833333333332,52.76721666666667,77</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>Netheravon (140m)</name>
+            <description>freq = 128.300: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.7541666666666667</longitude>
+                <latitude>51.24721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_188">
+                <coordinates>-1.7541666666666667,51.24721666666667,140</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>Netherthorpe (76m)</name>
+            <description>freq = 128.525: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.1963833333333334</longitude>
+                <latitude>53.31695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_189">
+                <coordinates>-1.1963833333333334,53.31695,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>Newcastle Gb (82m)</name>
+            <description>freq = 119.700: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.6916666666666667</longitude>
+                <latitude>55.0375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_190">
+                <coordinates>-1.6916666666666667,55.0375,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>Newmarket Heath (31m)</name>
+            <description>freq = : desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>0.3488833333333333</longitude>
+                <latitude>52.23611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_191">
+                <coordinates>0.3488833333333333,52.23611666666667,31</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>Newtownsards (3m)</name>
+            <description>freq = 128.300: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-5.69195</longitude>
+                <latitude>54.58111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_192">
+                <coordinates>-5.69195,54.58111666666667,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>Newton (54m)</name>
+            <description>freq = 122.100: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-0.9911166666666666</longitude>
+                <latitude>52.966116666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_193">
+                <coordinates>-0.9911166666666666,52.966116666666665,54</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>North Hill Gld (281m)</name>
+            <description>freq = 130.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-3.2783333333333333</longitude>
+                <latitude>50.85111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_194">
+                <coordinates>-3.2783333333333333,50.85111666666667,281</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>Northampton (128m)</name>
+            <description>freq = 122.700: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-0.7930499999999999</longitude>
+                <latitude>52.305283333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_195">
+                <coordinates>-0.7930499999999999,52.305283333333335,128</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>Northolt (37m)</name>
+            <description>freq = 120.675: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-0.41805</longitude>
+                <latitude>51.55305</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_196">
+                <coordinates>-0.41805,51.55305,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>North Weald Gld (98m)</name>
+            <description>freq = 123.525: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>0.15416666666666667</longitude>
+                <latitude>51.721666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_197">
+                <coordinates>0.15416666666666667,51.721666666666664,98</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>Norwich (37m)</name>
+            <description>freq = 124.250: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>1.2827833333333334</longitude>
+                <latitude>52.67583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_198">
+                <coordinates>1.2827833333333334,52.67583333333333,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>Nottingham East (95m)</name>
+            <description>freq = 124.000: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.32805</longitude>
+                <latitude>52.83111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_199">
+                <coordinates>-1.32805,52.83111666666667,95</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>Nottingham (43m)</name>
+            <description>freq = 122.800: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-1.0791666666666666</longitude>
+                <latitude>52.92</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_200">
+                <coordinates>-1.0791666666666666,52.92,43</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>Nuthampstead (140m)</name>
+            <description>freq = 123.050: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>0.06888333333333334</longitude>
+                <latitude>51.99445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_201">
+                <coordinates>0.06888333333333334,51.99445,140</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>Nympsfield Gld (210m)</name>
+            <description>freq = 130.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-2.2824999999999998</longitude>
+                <latitude>51.713883333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_202">
+                <coordinates>-2.2824999999999998,51.713883333333335,210</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>Oaksey Park (76m)</name>
+            <description>freq = : desc = Flugplatz                  </description>
+            <LookAt>
+                <longitude>-2.0147166666666667</longitude>
+                <latitude>51.632216666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_203">
+                <coordinates>-2.0147166666666667,51.632216666666665,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>Odiham Gld (125m)</name>
+            <description>freq = 122.100: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-0.9427833333333333</longitude>
+                <latitude>51.23416666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_204">
+                <coordinates>-0.9427833333333333,51.23416666666667,125</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>Old Buckenham U (58m)</name>
+            <description>freq = 130.000: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>1.05195</longitude>
+                <latitude>52.4975</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_205">
+                <coordinates>1.05195,52.4975,58</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>Old Sarum Gld (88m)</name>
+            <description>freq = 123.200: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.7841666666666667</longitude>
+                <latitude>51.09888333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_206">
+                <coordinates>-1.7841666666666667,51.09888333333333,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>OXFord Kidlingt (82m)</name>
+            <description>freq = 133.425: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.32</longitude>
+                <latitude>51.83695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_207">
+                <coordinates>-1.32,51.83695,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>Panshanger U Kin (76m)</name>
+            <description>freq = 120.250: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-0.15833333333333333</longitude>
+                <latitude>51.80195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_208">
+                <coordinates>-0.15833333333333333,51.80195,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>Parham Gld (32m)</name>
+            <description>freq = 130.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-0.4738833333333333</longitude>
+                <latitude>50.92361666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_209">
+                <coordinates>-0.4738833333333333,50.92361666666667,32</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>Park The Gld (211m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-2.24555</longitude>
+                <latitude>51.128616666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_210">
+                <coordinates>-2.24555,51.128616666666666,211</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>Pembrey U Kingdo (6m)</name>
+            <description>freq = 124.400: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-4.312216666666667</longitude>
+                <latitude>51.713883333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_211">
+                <coordinates>-4.312216666666667,51.713883333333335,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>Perranporth Gld (101m)</name>
+            <description>freq = 119.750: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-5.1775</longitude>
+                <latitude>50.33166666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_212">
+                <coordinates>-5.1775,50.33166666666666,101</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>Pershore (34m)</name>
+            <description>freq = : desc = Flugplatz                     </description>
+            <LookAt>
+                <longitude>-2.03695</longitude>
+                <latitude>52.14445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_213">
+                <coordinates>-2.03695,52.14445,34</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>Petrborough Con (9m)</name>
+            <description>freq = 129.725: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-0.25083333333333335</longitude>
+                <latitude>52.46805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_214">
+                <coordinates>-0.25083333333333335,52.46805,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>Peterborough Sib (40m)</name>
+            <description>freq = 122.300: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-0.38638333333333336</longitude>
+                <latitude>52.55583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_215">
+                <coordinates>-0.38638333333333336,52.55583333333333,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>Plymouth7 (146m)</name>
+            <description>freq = 118.150: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-4.105833333333333</longitude>
+                <latitude>50.422783333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_216">
+                <coordinates>-4.105833333333333,50.422783333333335,146</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>Pocklington (27m)</name>
+            <description>freq = 130.100: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-0.7947166666666666</longitude>
+                <latitude>53.926116666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_217">
+                <coordinates>-0.7947166666666666,53.926116666666665,27</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>Popham (168m)</name>
+            <description>freq = 129.800: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-1.2361166666666668</longitude>
+                <latitude>51.19445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_218">
+                <coordinates>-1.2361166666666668,51.19445,168</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>Portland Gb (3m)</name>
+            <description>freq = 122.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-2.4497166666666668</longitude>
+                <latitude>50.56805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_219">
+                <coordinates>-2.4497166666666668,50.56805,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>Predannack (92m)</name>
+            <description>freq = 134.050: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-5.2325</longitude>
+                <latitude>50.00138333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_220">
+                <coordinates>-5.2325,50.00138333333334,92</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>Prestwick (21m)</name>
+            <description>freq = 118.150: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-4.59445</longitude>
+                <latitude>55.50945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_221">
+                <coordinates>-4.59445,55.50945,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>Rattlesden Gld (92m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>0.8674999999999999</longitude>
+                <latitude>52.16833333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_222">
+                <coordinates>0.8674999999999999,52.16833333333334,92</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>Redhill (67m)</name>
+            <description>freq = 119.600: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-0.13861666666666667</longitude>
+                <latitude>51.21361666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_223">
+                <coordinates>-0.13861666666666667,51.21361666666667,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>Rednal (91m)</name>
+            <description>freq = : desc = Flugplatz                       </description>
+            <LookAt>
+                <longitude>-2.9347166666666666</longitude>
+                <latitude>52.84278333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_224">
+                <coordinates>-2.9347166666666666,52.84278333333334,91</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>Retford Gamstong (28m)</name>
+            <description>freq = 130.475: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-0.9513833333333334</longitude>
+                <latitude>53.28055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_225">
+                <coordinates>-0.9513833333333334,53.28055,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>Rhigos Gld (238m)</name>
+            <description>freq = 130.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-3.5872166666666665</longitude>
+                <latitude>51.74555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_226">
+                <coordinates>-3.5872166666666665,51.74555,238</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>Ridgewell Field (82m)</name>
+            <description>freq = : desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>0.5569500000000001</longitude>
+                <latitude>52.04805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_227">
+                <coordinates>0.5569500000000001,52.04805,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>Ringmer Gld (27m)</name>
+            <description>freq = 130.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>0.10471666666666667</longitude>
+                <latitude>50.9075</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_228">
+                <coordinates>0.10471666666666667,50.9075,27</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>Rivar Hill Gld (220m)</name>
+            <description>freq = 130.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.5427833333333334</longitude>
+                <latitude>51.34055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_229">
+                <coordinates>-1.5427833333333334,51.34055,220</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>Rochester Gb (131m)</name>
+            <description>freq = 122.250: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>0.5027833333333334</longitude>
+                <latitude>51.35195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_230">
+                <coordinates>0.5027833333333334,51.35195,131</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>Rougham New (61m)</name>
+            <description>freq = 118.900: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>0.7694500000000001</longitude>
+                <latitude>52.24666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_231">
+                <coordinates>0.7694500000000001,52.24666666666667,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>Rufforth YOrk (20m)</name>
+            <description>freq = 129.975: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-1.1883333333333335</longitude>
+                <latitude>53.951116666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_232">
+                <coordinates>-1.1883333333333335,53.951116666666664,20</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>Sackville Gld (74m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-0.48695</longitude>
+                <latitude>52.2625</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_233">
+                <coordinates>-0.48695,52.2625,74</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>Sandhill Gld (107m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-1.6741666666666668</longitude>
+                <latitude>51.60555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_234">
+                <coordinates>-1.6741666666666668,51.60555,107</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>Saltby Gld (148m)</name>
+            <description>freq = 130.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-0.7133333333333333</longitude>
+                <latitude>52.82971666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_235">
+                <coordinates>-0.7133333333333333,52.82971666666667,148</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>Sandtoft (3m)</name>
+            <description>freq = 130.425: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-0.8583333333333333</longitude>
+                <latitude>53.55971666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_236">
+                <coordinates>-0.8583333333333333,53.55971666666667,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>Scampton (61m)</name>
+            <description>freq = 122.100: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-0.5508333333333333</longitude>
+                <latitude>53.30778333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_237">
+                <coordinates>-0.5508333333333333,53.30778333333333,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>Scarborough (40m)</name>
+            <description>freq = 130.125: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-0.38166666666666665</longitude>
+                <latitude>54.136116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_238">
+                <coordinates>-0.38166666666666665,54.136116666666666,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>Scilly Isles (37m)</name>
+            <description>freq = 123.825: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-6.291666666666667</longitude>
+                <latitude>49.913333333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_239">
+                <coordinates>-6.291666666666667,49.913333333333334,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>Sculthorpe (65m)</name>
+            <description>freq = : desc = Flugplatz                  </description>
+            <LookAt>
+                <longitude>0.7663833333333333</longitude>
+                <latitude>52.846666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_240">
+                <coordinates>0.7663833333333333,52.846666666666664,65</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>Seething (40m)</name>
+            <description>freq = 122.600: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>1.4172166666666666</longitude>
+                <latitude>52.511116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_241">
+                <coordinates>1.4172166666666666,52.511116666666666,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>Seighford Gld (98m)</name>
+            <description>freq = 130.100: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-2.19945</longitude>
+                <latitude>52.82416666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_242">
+                <coordinates>-2.19945,52.82416666666667,98</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>Sennybridge (345m)</name>
+            <description>freq = : desc = Flugplatz                 </description>
+            <LookAt>
+                <longitude>-3.66805</longitude>
+                <latitude>52.01721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_243">
+                <coordinates>-3.66805,52.01721666666667,345</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>Shawbury (76m)</name>
+            <description>freq = 122.100: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-2.66805</longitude>
+                <latitude>52.79833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_244">
+                <coordinates>-2.66805,52.79833333333333,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>Sheffield (70m)</name>
+            <description>freq = 128.525: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-1.3886166666666666</longitude>
+                <latitude>53.39416666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_245">
+                <coordinates>-1.3886166666666666,53.39416666666666,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>Sherburn In Elme (9m)</name>
+            <description>freq = 122.600: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.2177833333333332</longitude>
+                <latitude>53.784166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_246">
+                <coordinates>-1.2177833333333332,53.784166666666664,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>Shipdham Open (64m)</name>
+            <description>freq = 119.550: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>0.92805</longitude>
+                <latitude>52.62945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_247">
+                <coordinates>0.92805,52.62945,64</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>Shobdon Gld (98m)</name>
+            <description>freq = 123.500: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-2.8811166666666668</longitude>
+                <latitude>52.24166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_248">
+                <coordinates>-2.8811166666666668,52.24166666666667,98</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>Shoreham (3m)</name>
+            <description>freq = 123.150: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.29721666666666663</longitude>
+                <latitude>50.83555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_249">
+                <coordinates>-0.29721666666666663,50.83555,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>Shuttleworth Wa (34m)</name>
+            <description>freq = 130.800: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-0.31971666666666665</longitude>
+                <latitude>52.08528333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_250">
+                <coordinates>-0.31971666666666665,52.08528333333334,34</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>Silverstone (155m)</name>
+            <description>freq = 121.075: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.01695</longitude>
+                <latitude>52.069716666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_251">
+                <coordinates>-1.01695,52.069716666666665,155</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>Skegness (2m)</name>
+            <description>freq = 130.450: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>0.33666666666666667</longitude>
+                <latitude>53.183616666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_252">
+                <coordinates>0.33666666666666667,53.183616666666666,2</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>Sleap A F R (85m)</name>
+            <description>freq = 122.450: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-2.7716666666666665</longitude>
+                <latitude>52.83388333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_253">
+                <coordinates>-2.7716666666666665,52.83388333333333,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>Snitterfield Gld (119m)</name>
+            <description>freq = 130.100: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-1.7161166666666667</longitude>
+                <latitude>52.236383333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_254">
+                <coordinates>-1.7161166666666667,52.236383333333336,119</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>South Burlingham (19m)</name>
+            <description>freq = : desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>1.5038833333333335</longitude>
+                <latitude>52.611666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_255">
+                <coordinates>1.5038833333333335,52.611666666666665,19</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>Southend (15m)</name>
+            <description>freq = 127.725: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>0.69555</longitude>
+                <latitude>51.57138333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_256">
+                <coordinates>0.69555,51.57138333333333,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>Southampton (12m)</name>
+            <description>freq = 118.200: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.3566666666666667</longitude>
+                <latitude>50.95028333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_257">
+                <coordinates>-1.3566666666666667,50.95028333333333,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>Stapleford (58m)</name>
+            <description>freq = 122.800: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>0.15583333333333332</longitude>
+                <latitude>51.6525</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_258">
+                <coordinates>0.15583333333333332,51.6525,58</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>St Athan (49m)</name>
+            <description>freq = 118.125: desc = Flugplatz             </description>
+            <LookAt>
+                <longitude>-3.435833333333333</longitude>
+                <latitude>51.404716666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_259">
+                <coordinates>-3.435833333333333,51.404716666666666,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>St Mawgan (119m)</name>
+            <description>freq = 122.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-4.995833333333334</longitude>
+                <latitude>50.44055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_260">
+                <coordinates>-4.995833333333334,50.44055,119</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>Strubby Gld (14m)</name>
+            <description>freq = 130.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>0.1675</longitude>
+                <latitude>53.30833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_261">
+                <coordinates>0.1675,53.30833333333333,14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>Strathaven Gld (258m)</name>
+            <description>freq = 130.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-4.11195</longitude>
+                <latitude>55.67945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_262">
+                <coordinates>-4.11195,55.67945,258</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>Sturgate (18m)</name>
+            <description>freq = 130.300: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.6852833333333332</longitude>
+                <latitude>53.381116666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_263">
+                <coordinates>-0.6852833333333332,53.381116666666664,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>Sutton Bank Gld (285m)</name>
+            <description>freq = 129.975: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.2097166666666666</longitude>
+                <latitude>54.23028333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_264">
+                <coordinates>-1.2097166666666666,54.23028333333333,285</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>Swansea (92m)</name>
+            <description>freq = 119.700: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-4.067783333333334</longitude>
+                <latitude>51.60528333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_265">
+                <coordinates>-4.067783333333334,51.60528333333333,92</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>Swanton Mor Cls (47m)</name>
+            <description>freq = 123.500: desc = Landefeld      </description>
+            <LookAt>
+                <longitude>0.9644499999999999</longitude>
+                <latitude>52.727783333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_266">
+                <coordinates>0.9644499999999999,52.727783333333335,47</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>Swinderby (21m)</name>
+            <description>freq = : desc = Flugplatz                   </description>
+            <LookAt>
+                <longitude>-0.6822166666666667</longitude>
+                <latitude>53.14971666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_267">
+                <coordinates>-0.6822166666666667,53.14971666666667,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>Syerston Runway (63m)</name>
+            <description>freq = : desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.9072166666666667</longitude>
+                <latitude>53.02471666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_268">
+                <coordinates>-0.9072166666666667,53.02471666666667,63</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>Talgarth Gld (296m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-3.2061166666666665</longitude>
+                <latitude>51.97945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_269">
+                <coordinates>-3.2061166666666665,51.97945,296</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>Tatenhill Gld (134m)</name>
+            <description>freq = 124.075: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.7647166666666667</longitude>
+                <latitude>52.814166666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_270">
+                <coordinates>-1.7647166666666667,52.814166666666665,134</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>Templeton Gld (81m)</name>
+            <description>freq = 130.100: desc = Flugplatz         </description>
+            <LookAt>
+                <longitude>-4.755</longitude>
+                <latitude>51.763616666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_271">
+                <coordinates>-4.755,51.763616666666664,81</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>Ternhill (82m)</name>
+            <description>freq = 122.100: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-2.5336166666666666</longitude>
+                <latitude>52.871116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_272">
+                <coordinates>-2.5336166666666666,52.871116666666666,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>ThruXTon Gld (98m)</name>
+            <description>freq = 130.450: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.6</longitude>
+                <latitude>51.21055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_273">
+                <coordinates>-1.6,51.21055,98</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>Thurrock (9m)</name>
+            <description>freq = : desc = Flugplatz                      </description>
+            <LookAt>
+                <longitude>0.36778333333333335</longitude>
+                <latitude>51.53695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_274">
+                <coordinates>0.36778333333333335,51.53695,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>Tibenham Gld (57m)</name>
+            <description>freq = 130.100: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>1.1547166666666666</longitude>
+                <latitude>52.45695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_275">
+                <coordinates>1.1547166666666666,52.45695,57</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>Tilstock (92m)</name>
+            <description>freq = 122.075: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-2.6463833333333335</longitude>
+                <latitude>52.93195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_276">
+                <coordinates>-2.6463833333333335,52.93195,92</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>Topcliffe (28m)</name>
+            <description>freq = 122.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-1.38195</longitude>
+                <latitude>54.20555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_277">
+                <coordinates>-1.38195,54.20555,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>Truro (122m)</name>
+            <description>freq = 129.800: desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-5.1425</longitude>
+                <latitude>50.278616666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_278">
+                <coordinates>-5.1425,50.278616666666665,122</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>Turweston Gld (137m)</name>
+            <description>freq = 122.175: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-1.09555</longitude>
+                <latitude>52.04083333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_279">
+                <coordinates>-1.09555,52.04083333333333,137</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>Upavon (177m)</name>
+            <description>freq = : desc = Flugplatz                     </description>
+            <LookAt>
+                <longitude>-1.7819500000000001</longitude>
+                <latitude>51.286116666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_280">
+                <coordinates>-1.7819500000000001,51.286116666666665,177</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>Upper Heyford (133m)</name>
+            <description>freq = 122.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-1.2488833333333333</longitude>
+                <latitude>51.9375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_281">
+                <coordinates>-1.2488833333333333,51.9375,133</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>Upwood Gld (24m)</name>
+            <description>freq = 130.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-0.14305</longitude>
+                <latitude>52.43695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_282">
+                <coordinates>-0.14305,52.43695,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>Usk Gld Club Gld (24m)</name>
+            <description>freq = 130.100: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-2.8547166666666666</longitude>
+                <latitude>51.717216666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_283">
+                <coordinates>-2.8547166666666666,51.717216666666666,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>Valley (12m)</name>
+            <description>freq = 122.100: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-4.535283333333333</longitude>
+                <latitude>53.24805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_284">
+                <coordinates>-4.535283333333333,53.24805,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>Waddington (70m)</name>
+            <description>freq = 122.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-0.5238833333333334</longitude>
+                <latitude>53.16611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_285">
+                <coordinates>-0.5238833333333334,53.16611666666667,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>Waldershare Gld (114m)</name>
+            <description>freq = 130.100: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>1.2783333333333333</longitude>
+                <latitude>51.176116666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_286">
+                <coordinates>1.2783333333333333,51.176116666666665,114</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>Warton (18m)</name>
+            <description>freq = 130.800: desc = Flugplatz               </description>
+            <LookAt>
+                <longitude>-2.88305</longitude>
+                <latitude>53.745</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_287">
+                <coordinates>-2.88305,53.745,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>Wattisham (85m)</name>
+            <description>freq = 122.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>0.9563833333333334</longitude>
+                <latitude>52.12721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_288">
+                <coordinates>0.9563833333333334,52.12721666666667,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>Watton (60m)</name>
+            <description>freq = : desc = Flugplatz                       </description>
+            <LookAt>
+                <longitude>0.85805</longitude>
+                <latitude>52.56388333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_289">
+                <coordinates>0.85805,52.56388333333334,60</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>Wellesbourne (49m)</name>
+            <description>freq = 124.025: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-1.61445</longitude>
+                <latitude>52.19221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_290">
+                <coordinates>-1.61445,52.19221666666667,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>Welshpool (70m)</name>
+            <description>freq = 123.250: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-3.1525</longitude>
+                <latitude>52.62945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_291">
+                <coordinates>-3.1525,52.62945,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>Weston Green Gld (78m)</name>
+            <description>freq = 130.100: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-1.2172166666666666</longitude>
+                <latitude>51.878883333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_292">
+                <coordinates>-1.2172166666666666,51.878883333333334,78</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>West Freugh (18m)</name>
+            <description>freq = 122.550: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-4.947783333333334</longitude>
+                <latitude>54.85111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_293">
+                <coordinates>-4.947783333333334,54.85111666666667,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>West Wales Aberp (131m)</name>
+            <description>freq = 122.150: desc = Flugplatz     </description>
+            <LookAt>
+                <longitude>-4.5569500000000005</longitude>
+                <latitude>52.11528333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_294">
+                <coordinates>-4.5569500000000005,52.11528333333333,131</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>White Waltham (40m)</name>
+            <description>freq = 122.600: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-0.77445</longitude>
+                <latitude>51.50083333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_295">
+                <coordinates>-0.77445,51.50083333333333,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>Wickenby (24m)</name>
+            <description>freq = 122.450: desc = Flugplatz              </description>
+            <LookAt>
+                <longitude>-0.3488833333333333</longitude>
+                <latitude>53.31695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_296">
+                <coordinates>-0.3488833333333333,53.31695,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>Wigtown Baldoon (7m)</name>
+            <description>freq = 123.050: desc = Flugplatz        </description>
+            <LookAt>
+                <longitude>-4.450283333333333</longitude>
+                <latitude>54.84888333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_297">
+                <coordinates>-4.450283333333333,54.84888333333333,7</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>Wittering (82m)</name>
+            <description>freq = 125.525: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-0.4766666666666667</longitude>
+                <latitude>52.6125</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_298">
+                <coordinates>-0.4766666666666667,52.6125,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>Wolverhampton U (85m)</name>
+            <description>freq = 123.000: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-2.25945</longitude>
+                <latitude>52.5175</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_299">
+                <coordinates>-2.25945,52.5175,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>Woodbridge (29m)</name>
+            <description>freq = 122.100: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>1.4058333333333333</longitude>
+                <latitude>52.09</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_300">
+                <coordinates>1.4058333333333333,52.09,29</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>Woodvale Gb (12m)</name>
+            <description>freq = 119.750: desc = Flugplatz          </description>
+            <LookAt>
+                <longitude>-3.05555</longitude>
+                <latitude>53.581383333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_301">
+                <coordinates>-3.05555,53.581383333333335,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>Wormingford Gld (72m)</name>
+            <description>freq = 130.100: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>0.7888833333333333</longitude>
+                <latitude>51.94166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_302">
+                <coordinates>0.7888833333333333,51.94166666666667,72</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>Wroughton (200m)</name>
+            <description>freq = 123.225: desc = Flugplatz           </description>
+            <LookAt>
+                <longitude>-1.80195</longitude>
+                <latitude>51.506116666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_303">
+                <coordinates>-1.80195,51.506116666666664,200</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>Wycombe Booker (159m)</name>
+            <description>freq = 126.550: desc = Flugplatz       </description>
+            <LookAt>
+                <longitude>-0.8083333333333333</longitude>
+                <latitude>51.611666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_304">
+                <coordinates>-0.8083333333333333,51.611666666666665,159</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>Wyton (43m)</name>
+            <description>freq = 119.975: desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-0.10778333333333333</longitude>
+                <latitude>52.357216666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_305">
+                <coordinates>-0.10778333333333333,52.357216666666666,43</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>Yeovil Westland (61m)</name>
+            <description>freq = 125.400: desc = Flugplatz      </description>
+            <LookAt>
+                <longitude>-2.6586166666666666</longitude>
+                <latitude>50.94</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_306">
+                <coordinates>-2.6586166666666666,50.94,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>Yeovilton (24m)</name>
+            <description>freq = 122.100: desc = Flugplatz            </description>
+            <LookAt>
+                <longitude>-2.6388833333333332</longitude>
+                <latitude>51.00945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_307">
+                <coordinates>-2.6388833333333332,51.00945,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>York Acaster (10m)</name>
+            <description>freq = : desc = Flugplatz                </description>
+            <LookAt>
+                <longitude>-1.1238833333333333</longitude>
+                <latitude>53.878883333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_308">
+                <coordinates>-1.1238833333333333,53.878883333333334,10</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

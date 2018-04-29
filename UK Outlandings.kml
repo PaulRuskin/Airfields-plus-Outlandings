@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>Swanton Morley O/L (46m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>0.9615666666666667</longitude>
+                <latitude>52.728183333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_0">
+                <coordinates>0.9615666666666667,52.728183333333334,46</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Alconbury O/L (48m)</name>
+            <description>freq = : desc = Runway area used for HGV training.  Beware cones.</description>
+            <LookAt>
+                <longitude>-0.22033333333333335</longitude>
+                <latitude>52.375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_1">
+                <coordinates>-0.22033333333333335,52.375,48</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Attlebridge O/L (51m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>1.1075</longitude>
+                <latitude>52.693</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_2">
+                <coordinates>1.1075,52.693,51</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Barford St John O/L (117m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-1.3555</longitude>
+                <latitude>52.003</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_3">
+                <coordinates>-1.3555,52.003,117</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>Bassingbourn O/L (25m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.0525</longitude>
+                <latitude>52.09616666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_4">
+                <coordinates>-0.0525,52.09616666666667,25</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Brown Shut Farm O/L (114m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-2.31055</longitude>
+                <latitude>51.310433333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_5">
+                <coordinates>-2.31055,51.310433333333336,114</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>Burscough O/L (24m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-2.8691666666666666</longitude>
+                <latitude>53.597</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_6">
+                <coordinates>-2.8691666666666666,53.597,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>CIT (0m)</name>
+            <description>freq = : desc = Beacon</description>
+            <LookAt>
+                <longitude>-0.557</longitude>
+                <latitude>52.13</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_7">
+                <coordinates>-0.557,52.13,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>Dale O/L (59m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-5.190833333333333</longitude>
+                <latitude>51.71216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_8">
+                <coordinates>-5.190833333333333,51.71216666666667,59</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Digby A/F (35m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.44333333333333336</longitude>
+                <latitude>53.10166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_9">
+                <coordinates>-0.44333333333333336,53.10166666666667,35</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Hall Farm (101m)</name>
+            <description>freq = : desc = Beware sheep</description>
+            <LookAt>
+                <longitude>-0.9686833333333333</longitude>
+                <latitude>52.05546666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_10">
+                <coordinates>-0.9686833333333333,52.05546666666667,101</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Hall Farm A/S (21m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>0.07216666666666667</longitude>
+                <latitude>53.325833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_11">
+                <coordinates>0.07216666666666667,53.325833333333335,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Hardwick A/F (52m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>1.3108333333333333</longitude>
+                <latitude>52.464166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_12">
+                <coordinates>1.3108333333333333,52.464166666666664,52</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Lichfield O/L (67m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-1.7853333333333334</longitude>
+                <latitude>52.714166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_13">
+                <coordinates>-1.7853333333333334,52.714166666666664,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Ludham O/L (4m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>1.5511666666666666</longitude>
+                <latitude>52.718333333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_14">
+                <coordinates>1.5511666666666666,52.718333333333334,4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Madley O/L (80m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-2.8486666666666665</longitude>
+                <latitude>52.03216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_15">
+                <coordinates>-2.8486666666666665,52.03216666666667,80</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>Manton O/L (186m)</name>
+            <description>freq = : desc = 23m wide</description>
+            <LookAt>
+                <longitude>-1.77515</longitude>
+                <latitude>51.42865</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_16">
+                <coordinates>-1.77515,51.42865,186</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Melbourne O/L (8m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.8408333333333334</longitude>
+                <latitude>53.8675</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_17">
+                <coordinates>-0.8408333333333334,53.8675,8</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Melton Mowbray O/L (119m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.8875</longitude>
+                <latitude>52.735</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_18">
+                <coordinates>-0.8875,52.735,119</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>Membury O/L (206m)</name>
+            <description>freq = : desc = 30m wide</description>
+            <LookAt>
+                <longitude>-1.5578333333333334</longitude>
+                <latitude>51.47666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_19">
+                <coordinates>-1.5578333333333334,51.47666666666667,206</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>Newton O/L (55m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.9894999999999999</longitude>
+                <latitude>52.9665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_20">
+                <coordinates>-0.9894999999999999,52.9665,55</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>North Luffenham O/L (105m)</name>
+            <description>freq = : desc = Watch out for craters</description>
+            <LookAt>
+                <longitude>-0.6075</longitude>
+                <latitude>52.63166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_21">
+                <coordinates>-0.6075,52.63166666666667,105</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Nuneaton O/L (95m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-1.4486666666666668</longitude>
+                <latitude>52.56283333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_22">
+                <coordinates>-1.4486666666666668,52.56283333333333,95</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Oakley O/L (73m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-1.0745</longitude>
+                <latitude>51.784666666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_23">
+                <coordinates>-1.0745,51.784666666666666,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Old Hay A/S (15m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>0.4236666666666667</longitude>
+                <latitude>51.178</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_24">
+                <coordinates>0.4236666666666667,51.178,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>Peter Hall Farm O/L (81m)</name>
+            <description>freq = : desc = 25m wide</description>
+            <LookAt>
+                <longitude>-1.3935833333333334</longitude>
+                <latitude>52.42216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_25">
+                <coordinates>-1.3935833333333334,52.42216666666667,81</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>Podington O/L (100m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.6051166666666667</longitude>
+                <latitude>52.2283</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_26">
+                <coordinates>-0.6051166666666667,52.2283,100</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>Poulton O/L (15m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-2.8958333333333335</longitude>
+                <latitude>53.130833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_27">
+                <coordinates>-2.8958333333333335,53.130833333333335,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>Sheffield O/L (70m)</name>
+            <description>freq = : desc = Now closed</description>
+            <LookAt>
+                <longitude>-1.3886166666666666</longitude>
+                <latitude>53.39416666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_28">
+                <coordinates>-1.3886166666666666,53.39416666666666,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>Snetterton Heath O/L (46m)</name>
+            <description>freq = : desc = Field to North might be best</description>
+            <LookAt>
+                <longitude>0.9508333333333333</longitude>
+                <latitude>52.467</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_29">
+                <coordinates>0.9508333333333333,52.467,46</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>Stretton O/L (67m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-2.5263333333333335</longitude>
+                <latitude>53.34616666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_30">
+                <coordinates>-2.5263333333333335,53.34616666666667,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>Upper Heyfor O/L (133m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-1.2488833333333333</longitude>
+                <latitude>51.9375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_31">
+                <coordinates>-1.2488833333333333,51.9375,133</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Waltham O/L (20m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.07116666666666666</longitude>
+                <latitude>53.501666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_32">
+                <coordinates>-0.07116666666666666,53.501666666666665,20</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>Westcott O/L (83m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.972</longitude>
+                <latitude>51.848333333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_33">
+                <coordinates>-0.972,51.848333333333336,83</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>Winthorpe A/S (19m)</name>
+            <description>freq = : desc = </description>
+            <LookAt>
+                <longitude>-0.7711666666666667</longitude>
+                <latitude>53.0955</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_34">
+                <coordinates>-0.7711666666666667,53.0955,19</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>Wymeswold O/L (78m)</name>
+            <description>freq = : desc = Beware objects on runway</description>
+            <LookAt>
+                <longitude>-1.1320000000000001</longitude>
+                <latitude>52.794666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_35">
+                <coordinates>-1.1320000000000001,52.794666666666664,78</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
