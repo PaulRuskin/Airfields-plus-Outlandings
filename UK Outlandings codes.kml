@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_53">
+        <Placemark id="feat_54">
+            <name>SWAL Swanton Morley OL (46m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.9615666666666667</longitude>
+                <latitude>52.728183333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_51">
+                <coordinates>0.9615666666666667,52.728183333333334,46</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>ALCU Alconbury DU (47m)</name>
+            <description>freq = 135.475: desc = Runway area used for HGV training.  Beware cones.</description>
+            <LookAt>
+                <longitude>-0.22033333333333335</longitude>
+                <latitude>52.375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_52">
+                <coordinates>-0.22033333333333335,52.375,47</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>ALLL Allensmore OL (91m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.783333333333333</longitude>
+                <latitude>51.98833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_53">
+                <coordinates>-2.783333333333333,51.98833333333333,91</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>ATTL Attlebridge OL (51m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.1075</longitude>
+                <latitude>52.693</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_54">
+                <coordinates>1.1075,52.693,51</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>BARU Barford St John DU (117m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.3555</longitude>
+                <latitude>52.003</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_55">
+                <coordinates>-1.3555,52.003,117</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>BASU Bassingbourn DU (25m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.0525</longitude>
+                <latitude>52.09616666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_56">
+                <coordinates>-0.0525,52.09616666666667,25</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>BROL Broadbury Fm OL (249m)</name>
+            <description>freq = 135.475: desc = Beware sheep</description>
+            <LookAt>
+                <longitude>-4.122216666666667</longitude>
+                <latitude>50.73</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_57">
+                <coordinates>-4.122216666666667,50.73,249</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>BROU Brough DU (3m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.5663833333333332</longitude>
+                <latitude>53.71971666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_58">
+                <coordinates>-0.5663833333333332,53.71971666666666,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>BROL2 Brown Shut Farm OL (114m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.31055</longitude>
+                <latitude>51.310433333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_59">
+                <coordinates>-2.31055,51.310433333333336,114</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>BURL Burscough OL (24m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.8691666666666666</longitude>
+                <latitude>53.597</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_60">
+                <coordinates>-2.8691666666666666,53.597,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>CARL Cardington OL (32m)</name>
+            <description>freq = 135.475: desc = In D206.  May contain short poles with security devices.  Beware.</description>
+            <LookAt>
+                <longitude>-0.42375</longitude>
+                <latitude>52.1064</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_61">
+                <coordinates>-0.42375,52.1064,32</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>CHEL Chetwynd OL (85m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.407566666666667</longitude>
+                <latitude>52.81271666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_62">
+                <coordinates>-2.407566666666667,52.81271666666667,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>DALU Dale DU (59m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-5.190833333333333</longitude>
+                <latitude>51.71216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_63">
+                <coordinates>-5.190833333333333,51.71216666666667,59</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>DAVU Davidstow Moor DU (295m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-4.609666666666667</longitude>
+                <latitude>50.6355</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_64">
+                <coordinates>-4.609666666666667,50.6355,295</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>DIGL Digby OL (35m)</name>
+            <description>freq = 135.475: desc = ex RAF Digby.  Grass.  Status unknown.</description>
+            <LookAt>
+                <longitude>-0.44333333333333336</longitude>
+                <latitude>53.10166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_65">
+                <coordinates>-0.44333333333333336,53.10166666666667,35</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>EBRS Ebrington AS (97m)</name>
+            <description>freq = 135.475: desc = May be too narrow depending on crops.  Beware.</description>
+            <LookAt>
+                <longitude>-1.7289166666666667</longitude>
+                <latitude>52.053333333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_66">
+                <coordinates>-1.7289166666666667,52.053333333333335,97</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>GRAS Grange Farm AS (48m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.25833333333333336</longitude>
+                <latitude>53.322</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_67">
+                <coordinates>-0.25833333333333336,53.322,48</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>GREL Great Ashfield OL (53m)</name>
+            <description>freq = 135.475: desc = Has a suitably wide hard runway with not much vegetation growing through it. There is a small hangar containing three locally based aircraft.</description>
+            <LookAt>
+                <longitude>0.9358333333333333</longitude>
+                <latitude>52.257083333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_68">
+                <coordinates>0.9358333333333333,52.257083333333334,53</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>HALS Hall Farm AS (21m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.07216666666666667</longitude>
+                <latitude>53.325833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_69">
+                <coordinates>0.07216666666666667,53.325833333333335,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>HALL Hall Farm OL (101m)</name>
+            <description>freq = 135.475: desc = Beware sheep.  May be narrow</description>
+            <LookAt>
+                <longitude>-0.9686833333333333</longitude>
+                <latitude>52.05546666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_70">
+                <coordinates>-0.9686833333333333,52.05546666666667,101</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>HARL Hardwick OL (54m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.32805</longitude>
+                <latitude>52.46528333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_71">
+                <coordinates>1.32805,52.46528333333333,54</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>HARL2 Hardwicke OL (152m)</name>
+            <description>freq = 135.475: desc = Beware sheep</description>
+            <LookAt>
+                <longitude>-3.0628333333333333</longitude>
+                <latitude>52.085</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_72">
+                <coordinates>-3.0628333333333333,52.085,152</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>HETL Hethel OL (45m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.175</longitude>
+                <latitude>52.5625</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_73">
+                <coordinates>1.175,52.5625,45</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>HULS Hulcote Farm AS (73m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.6176666666666667</longitude>
+                <latitude>52.036</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_74">
+                <coordinates>-0.6176666666666667,52.036,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>KEYS Keyston AS (70m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.47833333333333333</longitude>
+                <latitude>52.37</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_75">
+                <coordinates>-0.47833333333333333,52.37,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>LAVS Lavenham AS (84m)</name>
+            <description>freq = 135.475: desc = Usual caveats regarding Farm strips, including narrowness especially when crops are high</description>
+            <LookAt>
+                <longitude>0.7737499999999999</longitude>
+                <latitude>52.132933333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_76">
+                <coordinates>0.7737499999999999,52.132933333333334,84</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>LONS Long Crendon AS (76m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.0183333333333333</longitude>
+                <latitude>51.776666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_77">
+                <coordinates>-1.0183333333333333,51.776666666666664,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>LOWS Lower Botrea AS (121m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-5.629166666666666</longitude>
+                <latitude>50.1125</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_78">
+                <coordinates>-5.629166666666666,50.1125,121</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>LUDL Ludham OL (4m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.5511666666666666</longitude>
+                <latitude>52.718333333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_79">
+                <coordinates>1.5511666666666666,52.718333333333334,4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>MADL Madley OL (80m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.8486666666666665</longitude>
+                <latitude>52.03216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_80">
+                <coordinates>-2.8486666666666665,52.03216666666667,80</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>MELU Melbourne DU (7m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.8408333333333334</longitude>
+                <latitude>53.8675</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_81">
+                <coordinates>-0.8408333333333334,53.8675,7</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>MELU2 Melton Mowbray DU (118m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.8875</longitude>
+                <latitude>52.735</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_82">
+                <coordinates>-0.8875,52.735,118</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>NORU North Luffenham DU (104m)</name>
+            <description>freq = 135.475: desc = Watch out for craters</description>
+            <LookAt>
+                <longitude>-0.6075</longitude>
+                <latitude>52.63166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_83">
+                <coordinates>-0.6075,52.63166666666667,104</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>NUNU Nuneaton DU (95m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.4486666666666668</longitude>
+                <latitude>52.56283333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_84">
+                <coordinates>-1.4486666666666668,52.56283333333333,95</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>OAKU Oakley DU (73m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.0745</longitude>
+                <latitude>51.784666666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_85">
+                <coordinates>-1.0745,51.784666666666666,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>OLDS Old Hay AS (15m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.4236666666666667</longitude>
+                <latitude>51.178</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_86">
+                <coordinates>0.4236666666666667,51.178,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>PETL Peter Hall Farm OL (81m)</name>
+            <description>freq = 135.475: desc = 25m wide</description>
+            <LookAt>
+                <longitude>-1.3935833333333334</longitude>
+                <latitude>52.42216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_87">
+                <coordinates>-1.3935833333333334,52.42216666666667,81</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>Plymouth OL (146m)</name>
+            <description>freq = 135.475: desc = Closed</description>
+            <LookAt>
+                <longitude>-4.105833333333333</longitude>
+                <latitude>50.422783333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_88">
+                <coordinates>-4.105833333333333,50.422783333333335,146</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>PODL Podington OL (100m)</name>
+            <description>freq = 135.475: desc = Not the race track (too narrow) but the strip just to the south.</description>
+            <LookAt>
+                <longitude>-0.6051166666666667</longitude>
+                <latitude>52.2283</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_89">
+                <coordinates>-0.6051166666666667,52.2283,100</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>POUU Poulton DU (14m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.8958333333333335</longitude>
+                <latitude>53.130833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_90">
+                <coordinates>-2.8958333333333335,53.130833333333335,14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>RAYL Raydon OL (51m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.0041666666666667</longitude>
+                <latitude>52.01533333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_91">
+                <coordinates>1.0041666666666667,52.01533333333333,51</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>RHOL Rhos y Gilwen OL (121m)</name>
+            <description>freq = 135.475: desc = Farm - beware crops</description>
+            <LookAt>
+                <longitude>-4.6175</longitude>
+                <latitude>52.038333333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_92">
+                <coordinates>-4.6175,52.038333333333334,121</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>SNEL Snetterton Heath OL (46m)</name>
+            <description>freq = 135.475: desc = Field to North might be best</description>
+            <LookAt>
+                <longitude>0.9508333333333333</longitude>
+                <latitude>52.467</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_93">
+                <coordinates>0.9508333333333333,52.467,46</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>STOS Stoodleigh AS (253m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-3.532966666666667</longitude>
+                <latitude>50.95718333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_94">
+                <coordinates>-3.532966666666667,50.95718333333333,253</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>STRU Stretton DU (67m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.5263333333333335</longitude>
+                <latitude>53.34616666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_95">
+                <coordinates>-2.5263333333333335,53.34616666666667,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>TEMU Templeton DU (79m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-4.763166666666667</longitude>
+                <latitude>51.76316666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_96">
+                <coordinates>-4.763166666666667,51.76316666666666,79</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>TEMU2 Tempsford DU (20m)</name>
+            <description>freq = 135.475: desc = May be blocked by farm equipment</description>
+            <LookAt>
+                <longitude>-0.2646</longitude>
+                <latitude>52.159533333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_97">
+                <coordinates>-0.2646,52.159533333333336,20</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>TIDL Tidgrove OL (152m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.2497166666666666</longitude>
+                <latitude>51.28555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_98">
+                <coordinates>-1.2497166666666666,51.28555,152</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>TILS Tillingham AS (18m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.8727666666666667</longitude>
+                <latitude>51.69278333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_99">
+                <coordinates>0.8727666666666667,51.69278333333333,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>UPPU Upper Heyford DU (132m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.2488833333333333</longitude>
+                <latitude>51.9375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_100">
+                <coordinates>-1.2488833333333333,51.9375,132</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>WALL Waltham OL (20m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.07116666666666666</longitude>
+                <latitude>53.501666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_101">
+                <coordinates>-0.07116666666666666,53.501666666666665,20</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

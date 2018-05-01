@@ -1,0 +1,3841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_276">
+        <Placemark id="feat_277">
+            <name>Abbots Bromley AS (121m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.9</longitude>
+                <latitude>52.81666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_274">
+                <coordinates>-1.9,52.81666666666667,121</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>Abbotsley AS (76m)</name>
+            <description>freq = 135.475: desc = 28m wide</description>
+            <LookAt>
+                <longitude>-0.19333333333333333</longitude>
+                <latitude>52.1975</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_275">
+                <coordinates>-0.19333333333333333,52.1975,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>Abergavenny AS (67m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.9935</longitude>
+                <latitude>51.794</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_276">
+                <coordinates>-2.9935,51.794,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>Aberporth AF (129m)</name>
+            <description>freq = 122.150: desc = </description>
+            <LookAt>
+                <longitude>-4.556983333333333</longitude>
+                <latitude>52.11516666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_277">
+                <coordinates>-4.556983333333333,52.11516666666667,129</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>Abingdon MIL (79m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.3166666666666667</longitude>
+                <latitude>51.69028333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_278">
+                <coordinates>-1.3166666666666667,51.69028333333333,79</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>Andrewsfield AF (88m)</name>
+            <description>freq = 130.550: desc = </description>
+            <LookAt>
+                <longitude>0.44916666666666666</longitude>
+                <latitude>51.895</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_279">
+                <coordinates>0.44916666666666666,51.895,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>Audley End AF (86m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.22416666666666665</longitude>
+                <latitude>52.007783333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_280">
+                <coordinates>0.22416666666666665,52.007783333333336,86</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>Badminton AS (151m)</name>
+            <description>freq = 123.175: desc = 27m wide</description>
+            <LookAt>
+                <longitude>-2.3016666666666667</longitude>
+                <latitude>51.54833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_281">
+                <coordinates>-2.3016666666666667,51.54833333333333,151</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>Bagby Thirsk AF (49m)</name>
+            <description>freq = 123.250: desc = </description>
+            <LookAt>
+                <longitude>-1.29</longitude>
+                <latitude>54.21111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_282">
+                <coordinates>-1.29,54.21111666666667,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>Barkston Hea MIL (113m)</name>
+            <description>freq = 124.45: desc = Tower120.425</description>
+            <LookAt>
+                <longitude>-0.5616666666666668</longitude>
+                <latitude>52.96221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_283">
+                <coordinates>-0.5616666666666668,52.96221666666667,113</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>Barton AF (21m)</name>
+            <description>freq = 120.25: desc = </description>
+            <LookAt>
+                <longitude>-2.3897166666666667</longitude>
+                <latitude>53.471666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_284">
+                <coordinates>-2.3897166666666667,53.471666666666664,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>Beccles AF (24m)</name>
+            <description>freq = 120.375: desc = NATSU Norwich 119.350.  Beware width of runway - 18m.</description>
+            <LookAt>
+                <longitude>1.6183333333333334</longitude>
+                <latitude>52.43555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_285">
+                <coordinates>1.6183333333333334,52.43555,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>Bedford AF (82m)</name>
+            <description>freq = 119.025: desc = </description>
+            <LookAt>
+                <longitude>-0.4455</longitude>
+                <latitude>52.2325</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_286">
+                <coordinates>-0.4455,52.2325,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>Benson MIL (70m)</name>
+            <description>freq = 120.9: desc = Tower 127.150</description>
+            <LookAt>
+                <longitude>-1.0958333333333334</longitude>
+                <latitude>51.61638333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_287">
+                <coordinates>-1.0958333333333334,51.61638333333333,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>Bentwaters AF (26m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.4347166666666666</longitude>
+                <latitude>52.1275</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_288">
+                <coordinates>1.4347166666666666,52.1275,26</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>Benwick AS (0m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.008333333333333333</longitude>
+                <latitude>52.515</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_289">
+                <coordinates>-0.008333333333333333,52.515,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>Beverley AS (1m)</name>
+            <description>freq = 123.05: desc = </description>
+            <LookAt>
+                <longitude>-0.362</longitude>
+                <latitude>53.898666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_290">
+                <coordinates>-0.362,53.898666666666664,1</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>Biggin Hill AF (170m)</name>
+            <description>freq = 129.400: desc = </description>
+            <LookAt>
+                <longitude>0.03266666666666666</longitude>
+                <latitude>51.33121666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_291">
+                <coordinates>0.03266666666666666,51.33121666666667,170</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>Birmingham AF (0m)</name>
+            <description>freq = 123.980: desc = List Sq 0010 (freq 1/5/18)  </description>
+            <LookAt>
+                <longitude>-1.7478333333333333</longitude>
+                <latitude>52.45366666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_292">
+                <coordinates>-1.7478333333333333,52.45366666666666,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>Blackbushe AF (100m)</name>
+            <description>freq = 122.305: desc = freq 28/2/18</description>
+            <LookAt>
+                <longitude>-0.8475</longitude>
+                <latitude>51.323883333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_293">
+                <coordinates>-0.8475,51.323883333333335,100</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>Blackpool AF (9m)</name>
+            <description>freq = 119.95: desc = Tower 118.4</description>
+            <LookAt>
+                <longitude>-3.0286166666666667</longitude>
+                <latitude>53.77166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_294">
+                <coordinates>-3.0286166666666667,53.77166666666667,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>Bodmin AF (198m)</name>
+            <description>freq = 122.700: desc = </description>
+            <LookAt>
+                <longitude>-4.6658333333333335</longitude>
+                <latitude>50.499716666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_295">
+                <coordinates>-4.6658333333333335,50.499716666666664,198</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>BoscombeDown MIL (125m)</name>
+            <description>freq = 126.700: desc = Tower 130.75 </description>
+            <LookAt>
+                <longitude>-1.7472166666666666</longitude>
+                <latitude>51.15221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_296">
+                <coordinates>-1.7472166666666666,51.15221666666667,125</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>Bossington AS (76m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.5376666666666665</longitude>
+                <latitude>51.07655</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_297">
+                <coordinates>-1.5376666666666665,51.07655,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>Boughton AF (21m)</name>
+            <description>freq = 135.475: desc = Watch runway edges.</description>
+            <LookAt>
+                <longitude>0.5158333333333334</longitude>
+                <latitude>52.592</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_298">
+                <coordinates>0.5158333333333334,52.592,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>Bourn AF (68m)</name>
+            <description>freq = 124.35: desc = Single Runway 36/18 Tarmac and Grass made from old taxi-way.</description>
+            <LookAt>
+                <longitude>-0.042499999999999996</longitude>
+                <latitude>52.21</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_299">
+                <coordinates>-0.042499999999999996,52.21,68</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>Bournemouth AF (0m)</name>
+            <description>freq = 119.475: desc = List Sq 0011</description>
+            <LookAt>
+                <longitude>-1.8424999999999998</longitude>
+                <latitude>50.78</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_300">
+                <coordinates>-1.8424999999999998,50.78,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>Breighton AF (6m)</name>
+            <description>freq = 129.805: desc = Freq 1/5/18</description>
+            <LookAt>
+                <longitude>-0.9061166666666666</longitude>
+                <latitude>53.805283333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_301">
+                <coordinates>-0.9061166666666666,53.805283333333335,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>Bridlington (93m)</name>
+            <description>freq = 129.900: desc = Para jumping</description>
+            <LookAt>
+                <longitude>-0.23666666666666666</longitude>
+                <latitude>54.12063333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_302">
+                <coordinates>-0.23666666666666666,54.12063333333333,93</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>Brimpton AS (60m)</name>
+            <description>freq = 135.130: desc = </description>
+            <LookAt>
+                <longitude>-1.1724999999999999</longitude>
+                <latitude>51.383833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_303">
+                <coordinates>-1.1724999999999999,51.383833333333335,60</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>Bristol  AF (189m)</name>
+            <description>freq = 125.650: desc = List Sq 5077</description>
+            <LookAt>
+                <longitude>-2.7191666666666667</longitude>
+                <latitude>51.38283333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_304">
+                <coordinates>-2.7191666666666667,51.38283333333333,189</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>BristolFiltn AF (70m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.5908333333333333</longitude>
+                <latitude>51.51945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_305">
+                <coordinates>-2.5908333333333333,51.51945,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>Brize Norton MIL (88m)</name>
+            <description>freq = 119.000: desc = List Sq 3727 App 124.275 Tower 123.725</description>
+            <LookAt>
+                <longitude>-1.5836166666666667</longitude>
+                <latitude>51.75</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_306">
+                <coordinates>-1.5836166666666667,51.75,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>Bruntingthrp AS (145m)</name>
+            <description>freq = 122.825: desc = </description>
+            <LookAt>
+                <longitude>-1.1322166666666666</longitude>
+                <latitude>52.49138333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_307">
+                <coordinates>-1.1322166666666666,52.49138333333333,145</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>Bryngwn Bach AS (209m)</name>
+            <description>freq = 130.1: desc = </description>
+            <LookAt>
+                <longitude>-3.3558333333333334</longitude>
+                <latitude>53.27028333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_308">
+                <coordinates>-3.3558333333333334,53.27028333333333,209</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_312">
+            <name>Burbage AS (155m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.6896666666666667</longitude>
+                <latitude>51.3625</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_309">
+                <coordinates>-1.6896666666666667,51.3625,155</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_313">
+            <name>Burnham AS (57m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.7666666666666667</longitude>
+                <latitude>52.93666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_310">
+                <coordinates>0.7666666666666667,52.93666666666667,57</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_314">
+            <name>Caernarfon AF (3m)</name>
+            <description>freq = 122.25: desc = </description>
+            <LookAt>
+                <longitude>-4.340283333333334</longitude>
+                <latitude>53.104166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_311">
+                <coordinates>-4.340283333333334,53.104166666666664,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_315">
+            <name>Calton Moor AS (301m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.833</longitude>
+                <latitude>53.03366666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_312">
+                <coordinates>-1.833,53.03366666666667,301</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_316">
+            <name>Cambridge AF (14m)</name>
+            <description>freq = 123.6: desc = Tower 125.9.  A/T retrieves not possible.</description>
+            <LookAt>
+                <longitude>0.175</longitude>
+                <latitude>52.205</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_313">
+                <coordinates>0.175,52.205,14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_317">
+            <name>Cardiff AF (66m)</name>
+            <description>freq = 119.150: desc = </description>
+            <LookAt>
+                <longitude>-3.346</longitude>
+                <latitude>51.3979</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_314">
+                <coordinates>-3.346,51.3979,66</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_318">
+            <name>Carlisle AF (55m)</name>
+            <description>freq = 123.600: desc = freq 123.605 1/10/18</description>
+            <LookAt>
+                <longitude>-2.8091666666666666</longitude>
+                <latitude>54.9375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_315">
+                <coordinates>-2.8091666666666666,54.9375,55</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_319">
+            <name>Caunton AS (44m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.8883333333333333</longitude>
+                <latitude>53.120333333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_316">
+                <coordinates>-0.8883333333333333,53.120333333333335,44</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_320">
+            <name>Chalgrove AF (73m)</name>
+            <description>freq = 125.4: desc = Para NATSU Benson Zone 120.900</description>
+            <LookAt>
+                <longitude>-1.0852833333333334</longitude>
+                <latitude>51.67445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_317">
+                <coordinates>-1.0852833333333334,51.67445,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_321">
+            <name>Charlton Park AS (94m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.078</longitude>
+                <latitude>51.6005</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_318">
+                <coordinates>-2.078,51.6005,94</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_322">
+            <name>Chatteris AF (4m)</name>
+            <description>freq = 129.9: desc = Para NATSU London Info 124.600</description>
+            <LookAt>
+                <longitude>0.08333333333333333</longitude>
+                <latitude>52.49033333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_319">
+                <coordinates>0.08333333333333333,52.49033333333333,4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_323">
+            <name>Chichester AF (30m)</name>
+            <description>freq = 122.45: desc = </description>
+            <LookAt>
+                <longitude>-0.7591666666666667</longitude>
+                <latitude>50.85916666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_320">
+                <coordinates>-0.7591666666666667,50.85916666666667,30</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_324">
+            <name>Chiltern Park AS (61m)</name>
+            <description>freq = 134.030: desc = Para NATSU Benson Zone 120.900 freq 1/5/18</description>
+            <LookAt>
+                <longitude>-1.1013333333333333</longitude>
+                <latitude>51.5505</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_321">
+                <coordinates>-1.1013333333333333,51.5505,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_325">
+            <name>Chivenor MIL (8m)</name>
+            <description>freq = 130.2: desc = </description>
+            <LookAt>
+                <longitude>-4.150333333333333</longitude>
+                <latitude>51.08716666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_322">
+                <coordinates>-4.150333333333333,51.08716666666667,8</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_326">
+            <name>ChurchFenton MIL (9m)</name>
+            <description>freq = 126.505: desc = Twr 122.100 - freq 1/5/18</description>
+            <LookAt>
+                <longitude>-1.19555</longitude>
+                <latitude>53.83445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_323">
+                <coordinates>-1.19555,53.83445,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_327">
+            <name>Clacton AF (12m)</name>
+            <description>freq = 118.15: desc = </description>
+            <LookAt>
+                <longitude>1.13</longitude>
+                <latitude>51.785</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_324">
+                <coordinates>1.13,51.785,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_328">
+            <name>Clench Common AS (193m)</name>
+            <description>freq = 119.3: desc = 28m wide.  Runways bordered by electric fence.</description>
+            <LookAt>
+                <longitude>-1.7363333333333333</longitude>
+                <latitude>51.387166666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_325">
+                <coordinates>-1.7363333333333333,51.387166666666666,193</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_329">
+            <name>Clipgate AS (123m)</name>
+            <description>freq = 135.475: desc = 30m wide</description>
+            <LookAt>
+                <longitude>1.1525</longitude>
+                <latitude>51.187</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_326">
+                <coordinates>1.1525,51.187,123</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_330">
+            <name>Clutton Hill Farm AS (182m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.522666666666667</longitude>
+                <latitude>51.3415</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_327">
+                <coordinates>-2.522666666666667,51.3415,182</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_331">
+            <name>Colerne AF (177m)</name>
+            <description>freq = 120.075: desc = </description>
+            <LookAt>
+                <longitude>-2.277633333333333</longitude>
+                <latitude>51.44161666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_328">
+                <coordinates>-2.277633333333333,51.44161666666667,177</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_332">
+            <name>Coltishall O/L (21m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.3577833333333333</longitude>
+                <latitude>52.75471666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_329">
+                <coordinates>1.3577833333333333,52.75471666666667,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_333">
+            <name>Compton Abbas AF (246m)</name>
+            <description>freq = 122.700: desc = </description>
+            <LookAt>
+                <longitude>-2.1536166666666667</longitude>
+                <latitude>50.967216666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_330">
+                <coordinates>-2.1536166666666667,50.967216666666666,246</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_334">
+            <name>Coningsby MIL (7m)</name>
+            <description>freq = 119.200: desc = </description>
+            <LookAt>
+                <longitude>-0.16635</longitude>
+                <latitude>53.093333333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_331">
+                <coordinates>-0.16635,53.093333333333334,7</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_335">
+            <name>Conington AF (9m)</name>
+            <description>freq = 129.725: desc = Beware width of grass strip to side of concrete runway - can be narrow with crop either side.</description>
+            <LookAt>
+                <longitude>-0.25083333333333335</longitude>
+                <latitude>52.46805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_332">
+                <coordinates>-0.25083333333333335,52.46805,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_336">
+            <name>Cornbury Park OL (134m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.4916666666666667</longitude>
+                <latitude>51.858333333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_333">
+                <coordinates>-1.4916666666666667,51.858333333333334,134</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_337">
+            <name>Cosford MIL (82m)</name>
+            <description>freq = 135.875: desc = </description>
+            <LookAt>
+                <longitude>-2.3055</longitude>
+                <latitude>52.64</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_334">
+                <coordinates>-2.3055,52.64,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_338">
+            <name>Cottesmore MIL (140m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.6486166666666667</longitude>
+                <latitude>52.73583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_335">
+                <coordinates>-0.6486166666666667,52.73583333333333,140</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_339">
+            <name>Coventry AF (82m)</name>
+            <description>freq = 123.825: desc = Tower 118.175</description>
+            <LookAt>
+                <longitude>-1.4797166666666666</longitude>
+                <latitude>52.36971666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_336">
+                <coordinates>-1.4797166666666666,52.36971666666667,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_340">
+            <name>Cranfield AF (110m)</name>
+            <description>freq = 122.855: desc = Tower 134.930 freq 16/4/18</description>
+            <LookAt>
+                <longitude>-0.6166666666666667</longitude>
+                <latitude>52.072</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_337">
+                <coordinates>-0.6166666666666667,52.072,110</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_341">
+            <name>Cranwell MIL (66m)</name>
+            <description>freq = 124.45: desc = Tower 125.05</description>
+            <LookAt>
+                <longitude>-0.49283333333333335</longitude>
+                <latitude>53.03</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_338">
+                <coordinates>-0.49283333333333335,53.03,66</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_342">
+            <name>Croft AF (1m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.25</longitude>
+                <latitude>53.13333333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_339">
+                <coordinates>0.25,53.13333333333333,1</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_343">
+            <name>Cromer AS (53m)</name>
+            <description>freq = 129.825: desc = ?Freq</description>
+            <LookAt>
+                <longitude>1.3297166666666667</longitude>
+                <latitude>52.90221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_340">
+                <coordinates>1.3297166666666667,52.90221666666667,53</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_344">
+            <name>Crosland Moor AF (251m)</name>
+            <description>freq = 128.375: desc = </description>
+            <LookAt>
+                <longitude>-1.8306666666666667</longitude>
+                <latitude>53.62133333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_341">
+                <coordinates>-1.8306666666666667,53.62133333333333,251</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_345">
+            <name>Crowfield AF (61m)</name>
+            <description>freq = 122.775: desc = </description>
+            <LookAt>
+                <longitude>1.1111666666666666</longitude>
+                <latitude>52.171166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_342">
+                <coordinates>1.1111666666666666,52.171166666666664,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_346">
+            <name>Culdrose MIL (81m)</name>
+            <description>freq = 134.050: desc = </description>
+            <LookAt>
+                <longitude>-5.254</longitude>
+                <latitude>50.08533333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_343">
+                <coordinates>-5.254,50.08533333333333,81</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_347">
+            <name>Damyns Hall AF (18m)</name>
+            <description>freq = 119.555: desc = freq 16/4/18</description>
+            <LookAt>
+                <longitude>0.24555000000000002</longitude>
+                <latitude>51.528616666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_344">
+                <coordinates>0.24555000000000002,51.528616666666665,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_348">
+            <name>Deanland AS (19m)</name>
+            <description>freq = 129.730: desc = freq 1/4/18</description>
+            <LookAt>
+                <longitude>0.15583333333333332</longitude>
+                <latitude>50.88166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_345">
+                <coordinates>0.15583333333333332,50.88166666666667,19</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_349">
+            <name>Debden AF (117m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.27116666666666667</longitude>
+                <latitude>51.99133333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_346">
+                <coordinates>0.27116666666666667,51.99133333333333,117</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_350">
+            <name>Deenethorpe AS (100m)</name>
+            <description>freq = 127.575: desc = </description>
+            <LookAt>
+                <longitude>-0.5891666666666667</longitude>
+                <latitude>52.50638333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_347">
+                <coordinates>-0.5891666666666667,52.50638333333333,100</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_351">
+            <name>Denham Airfield (75m)</name>
+            <description>freq = 130.725: desc = </description>
+            <LookAt>
+                <longitude>-0.5088166666666667</longitude>
+                <latitude>51.5857</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_348">
+                <coordinates>-0.5088166666666667,51.5857,75</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_352">
+            <name>Deptford Dow AS (161m)</name>
+            <description>freq = 129.75: desc = Used for mil training - helos and C130s</description>
+            <LookAt>
+                <longitude>-1.9633333333333334</longitude>
+                <latitude>51.17361666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_349">
+                <coordinates>-1.9633333333333334,51.17361666666667,161</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_353">
+            <name>Derby AF (48m)</name>
+            <description>freq = 118.350: desc = </description>
+            <LookAt>
+                <longitude>-1.6145999999999998</longitude>
+                <latitude>52.860083333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_350">
+                <coordinates>-1.6145999999999998,52.860083333333336,48</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_354">
+            <name>Dishforth MIL (36m)</name>
+            <description>freq = 122.100: desc = </description>
+            <LookAt>
+                <longitude>-1.4202833333333333</longitude>
+                <latitude>54.13721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_351">
+                <coordinates>-1.4202833333333333,54.13721666666667,36</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_355">
+            <name>Doncaster AF (18m)</name>
+            <description>freq = 126.225: desc = Twr 128.775 -  Listening squawk 6170</description>
+            <LookAt>
+                <longitude>-1.00445</longitude>
+                <latitude>53.474716666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_352">
+                <coordinates>-1.00445,53.474716666666666,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_356">
+            <name>Draycott Farm AS (162m)</name>
+            <description>freq = 135.475: desc = 30m wide</description>
+            <LookAt>
+                <longitude>-1.7436666666666665</longitude>
+                <latitude>51.49583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_353">
+                <coordinates>-1.7436666666666665,51.49583333333333,162</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_357">
+            <name>Dunkeswell AF (256m)</name>
+            <description>freq = 123.475: desc = </description>
+            <LookAt>
+                <longitude>-3.2347166666666665</longitude>
+                <latitude>50.86</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_354">
+                <coordinates>-3.2347166666666665,50.86,256</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_358">
+            <name>Dunsfold AS (52m)</name>
+            <description>freq = 119.1: desc = </description>
+            <LookAt>
+                <longitude>-0.5358333333333333</longitude>
+                <latitude>51.117216666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_355">
+                <coordinates>-0.5358333333333333,51.117216666666664,52</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_359">
+            <name>Durham Tees AF (36m)</name>
+            <description>freq = 118.850: desc = </description>
+            <LookAt>
+                <longitude>-1.42945</longitude>
+                <latitude>54.509166666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_356">
+                <coordinates>-1.42945,54.509166666666665,36</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_360">
+            <name>Duxford AF (40m)</name>
+            <description>freq = 122.075: desc = </description>
+            <LookAt>
+                <longitude>0.13194999999999998</longitude>
+                <latitude>52.090833333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_357">
+                <coordinates>0.13194999999999998,52.090833333333336,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_361">
+            <name>Eaglescott AF (193m)</name>
+            <description>freq = 123.000: desc = </description>
+            <LookAt>
+                <longitude>-3.98865</longitude>
+                <latitude>50.928733333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_358">
+                <coordinates>-3.98865,50.928733333333334,193</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_362">
+            <name>Earls Colne AF (70m)</name>
+            <description>freq = 122.425: desc = </description>
+            <LookAt>
+                <longitude>0.6825</longitude>
+                <latitude>51.91445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_359">
+                <coordinates>0.6825,51.91445,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_363">
+            <name>East Kirkby AF (15m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.0016666666666666668</longitude>
+                <latitude>53.13783333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_360">
+                <coordinates>0.0016666666666666668,53.13783333333333,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_364">
+            <name>East Midlands AF (0m)</name>
+            <description>freq = 134.175: desc = List Sq 4572</description>
+            <LookAt>
+                <longitude>-1.3261666666666667</longitude>
+                <latitude>52.83116666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_361">
+                <coordinates>-1.3261666666666667,52.83116666666667,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_365">
+            <name>East Winch AS (15m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.5316666666666666</longitude>
+                <latitude>52.7225</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_362">
+                <coordinates>0.5316666666666666,52.7225,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_366">
+            <name>Eastchurch AS (38m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.8486666666666667</longitude>
+                <latitude>51.4045</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_363">
+                <coordinates>0.8486666666666667,51.4045,38</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_367">
+            <name>Easton Maudit AS (91m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.6972</longitude>
+                <latitude>52.21581666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_364">
+                <coordinates>-0.6972,52.21581666666667,91</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_368">
+            <name>Ellesmere AS (100m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.8833333333333333</longitude>
+                <latitude>52.916383333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_365">
+                <coordinates>-2.8833333333333333,52.916383333333336,100</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_369">
+            <name>Elmsett AS (75m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.9777833333333333</longitude>
+                <latitude>52.07555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_366">
+                <coordinates>0.9777833333333333,52.07555,75</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_370">
+            <name>Elstree AF (95m)</name>
+            <description>freq = 122.400: desc = </description>
+            <LookAt>
+                <longitude>-0.32583333333333336</longitude>
+                <latitude>51.655833333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_367">
+                <coordinates>-0.32583333333333336,51.655833333333334,95</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_371">
+            <name>Elvington AF (15m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.993</longitude>
+                <latitude>53.92333333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_368">
+                <coordinates>-0.993,53.92333333333333,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_372">
+            <name>Exeter AF (31m)</name>
+            <description>freq = 128.975: desc = </description>
+            <LookAt>
+                <longitude>-3.413883333333333</longitude>
+                <latitude>50.73445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_369">
+                <coordinates>-3.413883333333333,50.73445,31</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_373">
+            <name>Eye AS (49m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.125</longitude>
+                <latitude>52.33116666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_370">
+                <coordinates>1.125,52.33116666666667,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_374">
+            <name>Fairford MIL (88m)</name>
+            <description>freq = 119.0: desc = Tower 124.800</description>
+            <LookAt>
+                <longitude>-1.79</longitude>
+                <latitude>51.68216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_371">
+                <coordinates>-1.79,51.68216666666667,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_375">
+            <name>Fairoaks AF (24m)</name>
+            <description>freq = 123.425: desc = freq 123.430 from 1/6/18</description>
+            <LookAt>
+                <longitude>-0.5588833333333334</longitude>
+                <latitude>51.34805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_372">
+                <coordinates>-0.5588833333333334,51.34805,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_376">
+            <name>Farnborough AF (73m)</name>
+            <description>freq = 125.25: desc = List Sq 4572</description>
+            <LookAt>
+                <longitude>-0.7763833333333333</longitude>
+                <latitude>51.27583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_373">
+                <coordinates>-0.7763833333333333,51.27583333333333,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_377">
+            <name>Farthing AS (128m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.6011166666666666</longitude>
+                <latitude>51.33055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_374">
+                <coordinates>0.6011166666666666,51.33055,128</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_378">
+            <name>Felixkirk AS (68m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.2946666666666666</longitude>
+                <latitude>54.252</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_375">
+                <coordinates>-1.2946666666666666,54.252,68</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_379">
+            <name>Fenland AF (3m)</name>
+            <description>freq = 122.925: desc = Power circuits are to the West for runway 36/18 and to the South for runway 08/26.  The East / West Runway may not wide enough for a safe glider landing (only 18m wide!).</description>
+            <LookAt>
+                <longitude>-0.030000000000000002</longitude>
+                <latitude>52.73945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_376">
+                <coordinates>-0.030000000000000002,52.73945,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_380">
+            <name>Finmere AF (120m)</name>
+            <description>freq = 135.475: desc = Beware HGV training.  May not be friendly to gliders.</description>
+            <LookAt>
+                <longitude>-1.0563333333333333</longitude>
+                <latitude>51.98533333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_377">
+                <coordinates>-1.0563333333333333,51.98533333333334,120</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_381">
+            <name>Fishburn AS (114m)</name>
+            <description>freq = 118.275: desc = </description>
+            <LookAt>
+                <longitude>-1.4641666666666666</longitude>
+                <latitude>54.68833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_378">
+                <coordinates>-1.4641666666666666,54.68833333333333,114</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_382">
+            <name>Forwood AS (61m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.85</longitude>
+                <latitude>53.303333333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_379">
+                <coordinates>-0.85,53.303333333333335,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_383">
+            <name>Fowlmere AF (37m)</name>
+            <description>freq = 135.7: desc = </description>
+            <LookAt>
+                <longitude>0.06166666666666667</longitude>
+                <latitude>52.0775</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_380">
+                <coordinates>0.06166666666666667,52.0775,37</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_384">
+            <name>Full Sutton AS (28m)</name>
+            <description>freq = 120.1: desc = </description>
+            <LookAt>
+                <longitude>-0.8647166666666667</longitude>
+                <latitude>53.98055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_381">
+                <coordinates>-0.8647166666666667,53.98055,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_385">
+            <name>Fyfield AS (51m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.2813333333333333</longitude>
+                <latitude>51.74216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_382">
+                <coordinates>0.2813333333333333,51.74216666666667,51</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_386">
+            <name>Gatwick AF (0m)</name>
+            <description>freq = 126.825: desc = List Sq 7012</description>
+            <LookAt>
+                <longitude>-0.19033333333333333</longitude>
+                <latitude>51.148</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_383">
+                <coordinates>-0.19033333333333333,51.148,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_387">
+            <name>Gloucestershire AF (29m)</name>
+            <description>freq = 128.55: desc = </description>
+            <LookAt>
+                <longitude>-2.1671666666666667</longitude>
+                <latitude>51.89416666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_384">
+                <coordinates>-2.1671666666666667,51.89416666666666,29</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_388">
+            <name>Grassthorpe Grange AS (9m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.807</longitude>
+                <latitude>53.19583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_385">
+                <coordinates>-0.807,53.19583333333333,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_389">
+            <name>Great Massin AS (88m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.6775</longitude>
+                <latitude>52.779716666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_386">
+                <coordinates>0.6775,52.779716666666666,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_390">
+            <name>Greatt Oakley AS (18m)</name>
+            <description>freq = 123.205: desc = freq 28/2/18</description>
+            <LookAt>
+                <longitude>1.1813333333333333</longitude>
+                <latitude>51.91116666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_387">
+                <coordinates>1.1813333333333333,51.91116666666667,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_391">
+            <name>Green Fm AS (109m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-1.5483333333333333</longitude>
+                <latitude>52.15983333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_388">
+                <coordinates>-1.5483333333333333,52.15983333333333,109</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_392">
+            <name>Gunton Park AS (38m)</name>
+            <description>freq = 135.475: desc = Main strip only 22m wide, but grass may be low</description>
+            <LookAt>
+                <longitude>1.3175</longitude>
+                <latitude>52.85616666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_389">
+                <coordinates>1.3175,52.85616666666667,38</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_393">
+            <name>Halfpenny Green AF (85m)</name>
+            <description>freq = 123.0: desc = </description>
+            <LookAt>
+                <longitude>-2.2595</longitude>
+                <latitude>52.51716666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_390">
+                <coordinates>-2.2595,52.51716666666667,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_394">
+            <name>Halton MIL (112m)</name>
+            <description>freq = 130.425: desc = </description>
+            <LookAt>
+                <longitude>0.7333333333333333</longitude>
+                <latitude>51.78333333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_391">
+                <coordinates>0.7333333333333333,51.78333333333333,112</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_395">
+            <name>Hardwick AF (52m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.3108333333333333</longitude>
+                <latitude>52.464166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_392">
+                <coordinates>1.3108333333333333,52.464166666666664,52</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_396">
+            <name>Haverfordwest AF (44m)</name>
+            <description>freq = 122.200: desc = </description>
+            <LookAt>
+                <longitude>-4.96445</longitude>
+                <latitude>51.83225</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_393">
+                <coordinates>-4.96445,51.83225,44</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_397">
+            <name>Hawarden AF (14m)</name>
+            <description>freq = 130.015: desc = List Sq 4607 - App 130.015 Tower 124.955 freq 24/2/18</description>
+            <LookAt>
+                <longitude>-2.9777833333333334</longitude>
+                <latitude>53.17805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_394">
+                <coordinates>-2.9777833333333334,53.17805,14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_398">
+            <name>Headon AS (40m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.8713833333333334</longitude>
+                <latitude>53.2825</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_395">
+                <coordinates>-0.8713833333333334,53.2825,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_399">
+            <name>Henlow MIL (52m)</name>
+            <description>freq = 121.1: desc = </description>
+            <LookAt>
+                <longitude>-0.30388333333333334</longitude>
+                <latitude>52.01833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_396">
+                <coordinates>-0.30388333333333334,52.01833333333333,52</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_400">
+            <name>Henstridge AF (56m)</name>
+            <description>freq = 130.25: desc = </description>
+            <LookAt>
+                <longitude>-2.3586666666666667</longitude>
+                <latitude>50.98833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_397">
+                <coordinates>-2.3586666666666667,50.98833333333333,56</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_401">
+            <name>Hethel AS (49m)</name>
+            <description>freq = 135.475: desc = Lotus test track</description>
+            <LookAt>
+                <longitude>1.1808333333333334</longitude>
+                <latitude>52.566116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_398">
+                <coordinates>1.1808333333333334,52.566116666666666,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_402">
+            <name>Hibaldstow AS (9m)</name>
+            <description>freq = 129.925: desc = </description>
+            <LookAt>
+                <longitude>-0.5191666666666667</longitude>
+                <latitude>53.49721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_399">
+                <coordinates>-0.5191666666666667,53.49721666666667,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_403">
+            <name>Hinton AF (153m)</name>
+            <description>freq = 119.45: desc = Para NATSU Brize Radar 124.275</description>
+            <LookAt>
+                <longitude>-1.208</longitude>
+                <latitude>52.016666666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_400">
+                <coordinates>-1.208,52.016666666666666,153</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_404">
+            <name>Hollym AF (15m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.049833333333333334</longitude>
+                <latitude>53.7155</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_401">
+                <coordinates>0.049833333333333334,53.7155,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_405">
+            <name>Hucknall OL (85m)</name>
+            <description>freq = 135.475: desc = Disused airfield</description>
+            <LookAt>
+                <longitude>-1.2183333333333333</longitude>
+                <latitude>53.01445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_402">
+                <coordinates>-1.2183333333333333,53.01445,85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_406">
+            <name>Hull Burton AS (18m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.19305</longitude>
+                <latitude>53.8075</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_403">
+                <coordinates>-0.19305,53.8075,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_407">
+            <name>Hullavington AS (104m)</name>
+            <description>freq = 135.475: desc = To be sold for housing.</description>
+            <LookAt>
+                <longitude>-2.141383333333333</longitude>
+                <latitude>51.526383333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_404">
+                <coordinates>-2.141383333333333,51.526383333333335,104</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_408">
+            <name>Humberside AF (36m)</name>
+            <description>freq = 119.130: desc = Twr 124.900</description>
+            <LookAt>
+                <longitude>-0.35083333333333333</longitude>
+                <latitude>53.57445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_405">
+                <coordinates>-0.35083333333333333,53.57445,36</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_409">
+            <name>Huxham AS (57m)</name>
+            <description>freq = 135.475: desc = 30m</description>
+            <LookAt>
+                <longitude>-2.5971666666666664</longitude>
+                <latitude>51.12616666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_406">
+                <coordinates>-2.5971666666666664,51.12616666666667,57</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_410">
+            <name>Kemble AF (131m)</name>
+            <description>freq = 118.9: desc = </description>
+            <LookAt>
+                <longitude>-2.05695</longitude>
+                <latitude>51.66805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_407">
+                <coordinates>-2.05695,51.66805,131</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_411">
+            <name>Kirkbride AF (11m)</name>
+            <description>freq = 124.40: desc = </description>
+            <LookAt>
+                <longitude>-3.203333333333333</longitude>
+                <latitude>54.882783333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_408">
+                <coordinates>-3.203333333333333,54.882783333333336,11</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_412">
+            <name>Knettishall AS (38m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.8855000000000001</longitude>
+                <latitude>52.37833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_409">
+                <coordinates>0.8855000000000001,52.37833333333333,38</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_413">
+            <name>Lakenheath MIL (9m)</name>
+            <description>freq = 128.9: desc = </description>
+            <LookAt>
+                <longitude>0.5611166666666667</longitude>
+                <latitude>52.409166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_410">
+                <coordinates>0.5611166666666667,52.409166666666664,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_414">
+            <name>Lands End AF (121m)</name>
+            <description>freq = 120.250: desc = </description>
+            <LookAt>
+                <longitude>-5.67055</longitude>
+                <latitude>50.102783333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_411">
+                <coordinates>-5.67055,50.102783333333335,121</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_415">
+            <name>Langar AS (38m)</name>
+            <description>freq = 129.9: desc = NATSU East Midlands 134.175</description>
+            <LookAt>
+                <longitude>-0.9013833333333333</longitude>
+                <latitude>52.892783333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_412">
+                <coordinates>-0.9013833333333333,52.892783333333334,38</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_416">
+            <name>Lashenden AF (21m)</name>
+            <description>freq = 122.0: desc = NATSU Mansten 132.450</description>
+            <LookAt>
+                <longitude>0.6425</longitude>
+                <latitude>51.156666666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_413">
+                <coordinates>0.6425,51.156666666666666,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_417">
+            <name>Ledbury AS (47m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.4763333333333333</longitude>
+                <latitude>52.00333333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_414">
+                <coordinates>-2.4763333333333333,52.00333333333333,47</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_418">
+            <name>Leeds AF (207m)</name>
+            <description>freq = 134.580: desc = Tower 120.305  List Sq 2677 freq 29/3/18</description>
+            <LookAt>
+                <longitude>-1.6605500000000002</longitude>
+                <latitude>53.865833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_415">
+                <coordinates>-1.6605500000000002,53.865833333333335,207</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_419">
+            <name>Leeming MIL (39m)</name>
+            <description>freq = 133.375: desc = </description>
+            <LookAt>
+                <longitude>-1.5352833333333333</longitude>
+                <latitude>54.2925</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_416">
+                <coordinates>-1.5352833333333333,54.2925,39</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_420">
+            <name>Leicester AF (143m)</name>
+            <description>freq = 122.125: desc = </description>
+            <LookAt>
+                <longitude>-1.03195</longitude>
+                <latitude>52.60778333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_417">
+                <coordinates>-1.03195,52.60778333333333,143</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_421">
+            <name>Linton MIL (14m)</name>
+            <description>freq = 118.550: desc = </description>
+            <LookAt>
+                <longitude>-1.2527833333333334</longitude>
+                <latitude>54.048883333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_418">
+                <coordinates>-1.2527833333333334,54.048883333333336,14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_422">
+            <name>Little Grans AS (76m)</name>
+            <description>freq = 130.85: desc = </description>
+            <LookAt>
+                <longitude>-0.15388333333333334</longitude>
+                <latitude>52.166666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_419">
+                <coordinates>-0.15388333333333334,52.166666666666664,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_423">
+            <name>Little Snoring AS (59m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.9086166666666667</longitude>
+                <latitude>52.86195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_420">
+                <coordinates>0.9086166666666667,52.86195,59</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_424">
+            <name>Little Staughton AF (68m)</name>
+            <description>freq = 135.475: desc = Safetycom</description>
+            <LookAt>
+                <longitude>-0.3641666666666667</longitude>
+                <latitude>52.24283333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_421">
+                <coordinates>-0.3641666666666667,52.24283333333333,68</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_425">
+            <name>Liverpool AF (27m)</name>
+            <description>freq = 119.850: desc = List Sq 5060</description>
+            <LookAt>
+                <longitude>-2.8414333333333333</longitude>
+                <latitude>53.339133333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_422">
+                <coordinates>-2.8414333333333333,53.339133333333336,27</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_426">
+            <name>London/City AF (0m)</name>
+            <description>freq = 132.700: desc = Thames - List Sq 0012</description>
+            <LookAt>
+                <longitude>0.0545</longitude>
+                <latitude>51.50533333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_423">
+                <coordinates>0.0545,51.50533333333333,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_427">
+            <name>Lower Upham AS (59m)</name>
+            <description>freq = 135.475: desc = Main runway may be narrow</description>
+            <LookAt>
+                <longitude>-1.2522166666666665</longitude>
+                <latitude>50.97155</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_424">
+                <coordinates>-1.2522166666666665,50.97155,59</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_428">
+            <name>Lukesfield AF (21m)</name>
+            <description>freq = 129.825: desc = </description>
+            <LookAt>
+                <longitude>0.5266666666666667</longitude>
+                <latitude>51.178333333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_425">
+                <coordinates>0.5266666666666667,51.178333333333335,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_429">
+            <name>Luton AF (160m)</name>
+            <description>freq = 129.550: desc = List Sq 0013</description>
+            <LookAt>
+                <longitude>-0.3686666666666667</longitude>
+                <latitude>51.87466666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_426">
+                <coordinates>-0.3686666666666667,51.87466666666667,160</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_430">
+            <name>Lydd AF (3m)</name>
+            <description>freq = 120.700: desc = freq 120.705 from 21/6/18</description>
+            <LookAt>
+                <longitude>0.9391666666666667</longitude>
+                <latitude>50.95611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_427">
+                <coordinates>0.9391666666666667,50.95611666666667,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_431">
+            <name>Lyneham NOTAM (156m)</name>
+            <description>freq = 119.22: desc = </description>
+            <LookAt>
+                <longitude>-1.9933999999999998</longitude>
+                <latitude>51.50515</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_428">
+                <coordinates>-1.9933999999999998,51.50515,156</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_432">
+            <name>Main Hall Fm AS (19m)</name>
+            <description>freq = 135.475: desc = 25m wide</description>
+            <LookAt>
+                <longitude>-0.06536666666666667</longitude>
+                <latitude>52.271566666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_429">
+                <coordinates>-0.06536666666666667,52.271566666666665,19</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_433">
+            <name>Manchester AF (71m)</name>
+            <description>freq = 118.575: desc = List Sq 7366</description>
+            <LookAt>
+                <longitude>-2.2727333333333335</longitude>
+                <latitude>53.3588</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_430">
+                <coordinates>-2.2727333333333335,53.3588,71</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_434">
+            <name>Manston AF (54m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.3461166666666666</longitude>
+                <latitude>51.342216666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_431">
+                <coordinates>1.3461166666666666,51.342216666666666,54</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_435">
+            <name>Marshland AS (0m)</name>
+            <description>freq = 135.475: desc = 30m wide.  On west side of drain, NE of buildings</description>
+            <LookAt>
+                <longitude>0.29163333333333336</longitude>
+                <latitude>52.6405</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_432">
+                <coordinates>0.29163333333333336,52.6405,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_436">
+            <name>Maypole AS (34m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.15555</longitude>
+                <latitude>51.33861666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_433">
+                <coordinates>1.15555,51.33861666666667,34</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_437">
+            <name>Membury AS (206m)</name>
+            <description>freq = 135.475: desc = 30m wide</description>
+            <LookAt>
+                <longitude>-1.5578333333333334</longitude>
+                <latitude>51.47666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_434">
+                <coordinates>-1.5578333333333334,51.47666666666667,206</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_438">
+            <name>Meppershall AS (50m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.35666666666666663</longitude>
+                <latitude>52.01833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_435">
+                <coordinates>-0.35666666666666663,52.01833333333333,50</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_439">
+            <name>Merryfield MIL (46m)</name>
+            <description>freq = 122.100: desc = </description>
+            <LookAt>
+                <longitude>-2.93555</longitude>
+                <latitude>50.9625</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_436">
+                <coordinates>-2.93555,50.9625,46</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_440">
+            <name>MiddleWallop MIL (88m)</name>
+            <description>freq = 123.3: desc = Twr 118.600  Para NATSU Boscombe 126.700</description>
+            <LookAt>
+                <longitude>-1.5702833333333333</longitude>
+                <latitude>51.14945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_437">
+                <coordinates>-1.5702833333333333,51.14945,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_441">
+            <name>Mildenhall MIL (9m)</name>
+            <description>freq = 125.85: desc = </description>
+            <LookAt>
+                <longitude>0.48638333333333333</longitude>
+                <latitude>52.36195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_438">
+                <coordinates>0.48638333333333333,52.36195,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_442">
+            <name>Mitchells Fm AS (1m)</name>
+            <description>freq = 135.475: desc = 24m wide</description>
+            <LookAt>
+                <longitude>0.18216666666666667</longitude>
+                <latitude>52.340833333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_439">
+                <coordinates>0.18216666666666667,52.340833333333336,1</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_443">
+            <name>Mona MIL (61m)</name>
+            <description>freq = 118.955: desc = freq 1/3/18</description>
+            <LookAt>
+                <longitude>-4.3741666666666665</longitude>
+                <latitude>53.25888333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_440">
+                <coordinates>-4.3741666666666665,53.25888333333333,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_444">
+            <name>Mount Airey AS (143m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.577</longitude>
+                <latitude>53.77166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_441">
+                <coordinates>-0.577,53.77166666666667,143</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_445">
+            <name>Muckleborough AS (24m)</name>
+            <description>freq = 135.475: desc = Cut strips 18m but rest may be low</description>
+            <LookAt>
+                <longitude>1.1226666666666667</longitude>
+                <latitude>52.946666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_442">
+                <coordinates>1.1226666666666667,52.946666666666665,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_446">
+            <name>Napps Field AS (58m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.41933333333333334</longitude>
+                <latitude>51.656</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_443">
+                <coordinates>0.41933333333333334,51.656,58</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_447">
+            <name>Netheravon MIL (140m)</name>
+            <description>freq = 128.3: desc = Para NATSU Salisbury Ops 122.750</description>
+            <LookAt>
+                <longitude>-1.7541666666666667</longitude>
+                <latitude>51.24721666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_444">
+                <coordinates>-1.7541666666666667,51.24721666666667,140</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_448">
+            <name>Netherthorpe AF (76m)</name>
+            <description>freq = 123.275: desc = </description>
+            <LookAt>
+                <longitude>-1.1963833333333334</longitude>
+                <latitude>53.31695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_445">
+                <coordinates>-1.1963833333333334,53.31695,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_449">
+            <name>Newcastle AS (1m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-6.045283333333333</longitude>
+                <latitude>53.07111666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_446">
+                <coordinates>-6.045283333333333,53.07111666666667,1</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_450">
+            <name>Newmarket He AS (31m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.3488833333333333</longitude>
+                <latitude>52.23611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_447">
+                <coordinates>0.3488833333333333,52.23611666666667,31</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_451">
+            <name>Newquay AF (118m)</name>
+            <description>freq = 133.400: desc = freq 133.405 from 30/11/18</description>
+            <LookAt>
+                <longitude>-4.995833333333334</longitude>
+                <latitude>50.44055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_448">
+                <coordinates>-4.995833333333334,50.44055,118</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_452">
+            <name>Newton DU (55m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.9894999999999999</longitude>
+                <latitude>52.9665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_449">
+                <coordinates>-0.9894999999999999,52.9665,55</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_453">
+            <name>North Weald AF (97m)</name>
+            <description>freq = 123.530: desc = freq 1/3/18</description>
+            <LookAt>
+                <longitude>0.15416666666666667</longitude>
+                <latitude>51.721666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_450">
+                <coordinates>0.15416666666666667,51.721666666666664,97</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_454">
+            <name>Norwich AF (36m)</name>
+            <description>freq = 119.355: desc = Twr 124.255 freq 1/5/18</description>
+            <LookAt>
+                <longitude>1.2827833333333334</longitude>
+                <latitude>52.67583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_451">
+                <coordinates>1.2827833333333334,52.67583333333333,36</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_455">
+            <name>Nottingham AF (43m)</name>
+            <description>freq = 134.875: desc = </description>
+            <LookAt>
+                <longitude>-1.0791666666666666</longitude>
+                <latitude>52.92</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_452">
+                <coordinates>-1.0791666666666666,52.92,43</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_456">
+            <name>Nuthampstead AS (140m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.06888333333333334</longitude>
+                <latitude>51.99445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_453">
+                <coordinates>0.06888333333333334,51.99445,140</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_457">
+            <name>Oaksey Park AS (76m)</name>
+            <description>freq = 132.225: desc = </description>
+            <LookAt>
+                <longitude>-2.0147166666666667</longitude>
+                <latitude>51.632216666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_454">
+                <coordinates>-2.0147166666666667,51.632216666666665,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_458">
+            <name>Odiham MIL (123m)</name>
+            <description>freq = 131.3: desc = </description>
+            <LookAt>
+                <longitude>-0.9433166666666666</longitude>
+                <latitude>51.23961666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_455">
+                <coordinates>-0.9433166666666666,51.23961666666667,123</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_459">
+            <name>Old Buckenham AF (58m)</name>
+            <description>freq = 124.4: desc = </description>
+            <LookAt>
+                <longitude>1.0555</longitude>
+                <latitude>52.5</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_456">
+                <coordinates>1.0555,52.5,58</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_460">
+            <name>Old Sarum AF (88m)</name>
+            <description>freq = 123.205: desc = Para NATSU London Info 124.600 - freq 1/3/18</description>
+            <LookAt>
+                <longitude>-1.7841666666666667</longitude>
+                <latitude>51.09888333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_457">
+                <coordinates>-1.7841666666666667,51.09888333333333,88</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_461">
+            <name>Oxford Kidl AF (82m)</name>
+            <description>freq = 127.110: desc = List Sq 4517  App 127.110 Twr 133.425 (till 31/12/18 then 133.430)</description>
+            <LookAt>
+                <longitude>-1.32</longitude>
+                <latitude>51.83695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_458">
+                <coordinates>-1.32,51.83695,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_462">
+            <name>Oxton AS (77m)</name>
+            <description>freq = 135.475: desc = Beware sheep</description>
+            <LookAt>
+                <longitude>-1.0016666666666667</longitude>
+                <latitude>53.044666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_459">
+                <coordinates>-1.0016666666666667,53.044666666666664,77</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_463">
+            <name>Pembrey AF (6m)</name>
+            <description>freq = 124.4: desc = </description>
+            <LookAt>
+                <longitude>-4.312216666666667</longitude>
+                <latitude>51.713883333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_460">
+                <coordinates>-4.312216666666667,51.713883333333335,6</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_464">
+            <name>Pent Farm AS (83m)</name>
+            <description>freq = 135.475: desc = GM</description>
+            <LookAt>
+                <longitude>1.0528333333333333</longitude>
+                <latitude>51.10783333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_461">
+                <coordinates>1.0528333333333333,51.10783333333333,83</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_465">
+            <name>Perranporth AF (100m)</name>
+            <description>freq = 119.750: desc = </description>
+            <LookAt>
+                <longitude>-5.1775</longitude>
+                <latitude>50.33166666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_462">
+                <coordinates>-5.1775,50.33166666666666,100</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_466">
+            <name>Peterlee Para AS (137m)</name>
+            <description>freq = 129.9: desc = </description>
+            <LookAt>
+                <longitude>-1.3796666666666666</longitude>
+                <latitude>54.767</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_463">
+                <coordinates>-1.3796666666666666,54.767,137</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_467">
+            <name>Popham AF (167m)</name>
+            <description>freq = 129.805: desc = freq 1/3/18</description>
+            <LookAt>
+                <longitude>-1.2361166666666668</longitude>
+                <latitude>51.19445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_464">
+                <coordinates>-1.2361166666666668,51.19445,167</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_468">
+            <name>Porthtowan AS (103m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-5.2283333333333335</longitude>
+                <latitude>50.285</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_465">
+                <coordinates>-5.2283333333333335,50.285,103</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_469">
+            <name>Pound Green AS (111m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.3541666666666665</longitude>
+                <latitude>52.40383333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_466">
+                <coordinates>-2.3541666666666665,52.40383333333333,111</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_470">
+            <name>Predannack MIL (92m)</name>
+            <description>freq = 122.100: desc = </description>
+            <LookAt>
+                <longitude>-5.2325</longitude>
+                <latitude>50.00138333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_467">
+                <coordinates>-5.2325,50.00138333333334,92</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_471">
+            <name>Priory Farm OL (56m)</name>
+            <description>freq = 129.825: desc = Next to TIB</description>
+            <LookAt>
+                <longitude>1.1308333333333334</longitude>
+                <latitude>52.4525</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_468">
+                <coordinates>1.1308333333333334,52.4525,56</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_472">
+            <name>Raydon AS (51m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>1.0041666666666667</longitude>
+                <latitude>52.01533333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_469">
+                <coordinates>1.0041666666666667,52.01533333333333,51</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_473">
+            <name>Redhill AF (67m)</name>
+            <description>freq = 119.600: desc = </description>
+            <LookAt>
+                <longitude>-0.14283333333333334</longitude>
+                <latitude>51.216116666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_470">
+                <coordinates>-0.14283333333333334,51.216116666666665,67</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_474">
+            <name>Rednal AF (83m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.925</longitude>
+                <latitude>52.8415</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_471">
+                <coordinates>-2.925,52.8415,83</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_475">
+            <name>Rednal AS (91m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.9347166666666666</longitude>
+                <latitude>52.84278333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_472">
+                <coordinates>-2.9347166666666666,52.84278333333334,91</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_476">
+            <name>Retford AF (28m)</name>
+            <description>freq = 130.475: desc = </description>
+            <LookAt>
+                <longitude>-0.9513833333333334</longitude>
+                <latitude>53.28055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_473">
+                <coordinates>-0.9513833333333334,53.28055,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_477">
+            <name>Ringstead AF (61m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.5422166666666667</longitude>
+                <latitude>52.36445</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_474">
+                <coordinates>-0.5422166666666667,52.36445,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_478">
+            <name>Rochester AF (131m)</name>
+            <description>freq = 122.255: desc = freq 28/2/18</description>
+            <LookAt>
+                <longitude>0.5027833333333334</longitude>
+                <latitude>51.35195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_475">
+                <coordinates>0.5027833333333334,51.35195,131</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_479">
+            <name>Rossendale AS (285m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.2528333333333332</longitude>
+                <latitude>53.7225</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_476">
+                <coordinates>-2.2528333333333332,53.7225,285</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_480">
+            <name>Sandown AF (18m)</name>
+            <description>freq = 119.275: desc = </description>
+            <LookAt>
+                <longitude>-1.182</longitude>
+                <latitude>50.652833333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_477">
+                <coordinates>-1.182,50.652833333333334,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_481">
+            <name>Sandtoft AF (3m)</name>
+            <description>freq = 130.425: desc = </description>
+            <LookAt>
+                <longitude>-0.8583333333333333</longitude>
+                <latitude>53.55971666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_478">
+                <coordinates>-0.8583333333333333,53.55971666666667,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_482">
+            <name>Sandy M/L (24m)</name>
+            <description>freq = 135.475: desc = 020 R/W is 24m wide</description>
+            <LookAt>
+                <longitude>-0.30966666666666665</longitude>
+                <latitude>52.12883333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_479">
+                <coordinates>-0.30966666666666665,52.12883333333333,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_483">
+            <name>Scampton MIL (61m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.5508333333333333</longitude>
+                <latitude>53.30778333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_480">
+                <coordinates>-0.5508333333333333,53.30778333333333,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_484">
+            <name>Sculthorpe AS (65m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.7663833333333333</longitude>
+                <latitude>52.846666666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_481">
+                <coordinates>0.7663833333333333,52.846666666666664,65</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_485">
+            <name>Seething AS (39m)</name>
+            <description>freq = 122.605: desc = freq 1/3/18</description>
+            <LookAt>
+                <longitude>1.4172166666666666</longitude>
+                <latitude>52.511116666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_482">
+                <coordinates>1.4172166666666666,52.511116666666666,39</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_486">
+            <name>Shawbury MIL (75m)</name>
+            <description>freq = 133.150: desc = Twr 122.100</description>
+            <LookAt>
+                <longitude>-2.66805</longitude>
+                <latitude>52.79833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_483">
+                <coordinates>-2.66805,52.79833333333333,75</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_487">
+            <name>Sheepwash AS (94m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-4.167</longitude>
+                <latitude>50.8425</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_484">
+                <coordinates>-4.167,50.8425,94</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_488">
+            <name>Sherburn AF (9m)</name>
+            <description>freq = 122.6: desc = </description>
+            <LookAt>
+                <longitude>-1.2177833333333332</longitude>
+                <latitude>53.784166666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_485">
+                <coordinates>-1.2177833333333332,53.784166666666664,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_489">
+            <name>Shipdham AS (64m)</name>
+            <description>freq = 132.230: desc = freq 1/3/18</description>
+            <LookAt>
+                <longitude>0.92805</longitude>
+                <latitude>52.62945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_486">
+                <coordinates>0.92805,52.62945,64</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_490">
+            <name>Shoreham AF (2m)</name>
+            <description>freq = 123.15: desc = </description>
+            <LookAt>
+                <longitude>-0.29450000000000004</longitude>
+                <latitude>50.8345</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_487">
+                <coordinates>-0.29450000000000004,50.8345,2</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_491">
+            <name>Shotteswell AS (159m)</name>
+            <description>freq = 135.475: desc = 25m wide</description>
+            <LookAt>
+                <longitude>-1.3805</longitude>
+                <latitude>52.1045</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_488">
+                <coordinates>-1.3805,52.1045,159</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_492">
+            <name>Shrove AS (76m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.9088999999999999</longitude>
+                <latitude>51.74745</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_489">
+                <coordinates>-0.9088999999999999,51.74745,76</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_493">
+            <name>Shuttleworth AS (34m)</name>
+            <description>freq = 130.7: desc = </description>
+            <LookAt>
+                <longitude>-0.31971666666666665</longitude>
+                <latitude>52.08528333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_490">
+                <coordinates>-0.31971666666666665,52.08528333333334,34</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_494">
+            <name>Sibson AF (40m)</name>
+            <description>freq = 120.325: desc = NATSU Marham 124.150</description>
+            <LookAt>
+                <longitude>-0.38638333333333336</longitude>
+                <latitude>52.55583333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_491">
+                <coordinates>-0.38638333333333336,52.55583333333333,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_495">
+            <name>Skegness AF (2m)</name>
+            <description>freq = 132.425: desc = </description>
+            <LookAt>
+                <longitude>0.3255</longitude>
+                <latitude>53.17216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_492">
+                <coordinates>0.3255,53.17216666666667,2</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_496">
+            <name>Sleap AF (83m)</name>
+            <description>freq = 122.45: desc = </description>
+            <LookAt>
+                <longitude>2.7666666666666666</longitude>
+                <latitude>52.833333333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_493">
+                <coordinates>2.7666666666666666,52.833333333333336,83</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_497">
+            <name>Slinfold AS (45m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.378</longitude>
+                <latitude>51.06016666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_494">
+                <coordinates>-0.378,51.06016666666667,45</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_498">
+            <name>South Cerney AF (110m)</name>
+            <description>freq = 129.9: desc = Para NATSU Brize Radar 124.275</description>
+            <LookAt>
+                <longitude>-1.9208333333333334</longitude>
+                <latitude>51.6875</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_495">
+                <coordinates>-1.9208333333333334,51.6875,110</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_499">
+            <name>Southampton AF (13m)</name>
+            <description>freq = 120.225: desc = List Sq 7011</description>
+            <LookAt>
+                <longitude>-1.3566666666666667</longitude>
+                <latitude>50.95033333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_496">
+                <coordinates>-1.3566666666666667,50.95033333333333,13</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_500">
+            <name>Southend AF (14m)</name>
+            <description>freq = 130.775: desc = List Sq 5050</description>
+            <LookAt>
+                <longitude>0.6954999999999999</longitude>
+                <latitude>51.571333333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_497">
+                <coordinates>0.6954999999999999,51.571333333333335,14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_501">
+            <name>Spanhoe AS (102m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.615</longitude>
+                <latitude>52.56166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_498">
+                <coordinates>-0.615,52.56166666666667,102</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_502">
+            <name>Spitalgate AS (124m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.5966666666666666</longitude>
+                <latitude>52.89966666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_499">
+                <coordinates>-0.5966666666666666,52.89966666666667,124</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_503">
+            <name>St Athan MIL (49m)</name>
+            <description>freq = 119.15: desc = </description>
+            <LookAt>
+                <longitude>-3.435833333333333</longitude>
+                <latitude>51.404833333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_500">
+                <coordinates>-3.435833333333333,51.404833333333336,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_504">
+            <name>St Michaels AF (10m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.793</longitude>
+                <latitude>53.85166666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_501">
+                <coordinates>-2.793,53.85166666666667,10</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_505">
+            <name>Stansted AF (0m)</name>
+            <description>freq = 120.625: desc = List Sq 7013</description>
+            <LookAt>
+                <longitude>0.235</longitude>
+                <latitude>51.885</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_502">
+                <coordinates>0.235,51.885,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_506">
+            <name>Stapleford AF (35m)</name>
+            <description>freq = 122.800: desc = </description>
+            <LookAt>
+                <longitude>0.15781666666666666</longitude>
+                <latitude>51.654983333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_503">
+                <coordinates>0.15781666666666666,51.654983333333334,35</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_507">
+            <name>Stoke Golding AS (91m)</name>
+            <description>freq = 135.475: desc = 26m wide</description>
+            <LookAt>
+                <longitude>-1.4313333333333333</longitude>
+                <latitude>52.580083333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_504">
+                <coordinates>-1.4313333333333333,52.580083333333334,91</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_508">
+            <name>Stow Maries AF (56m)</name>
+            <description>freq = 118.980: desc = </description>
+            <LookAt>
+                <longitude>0.6263333333333333</longitude>
+                <latitude>51.6705</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_505">
+                <coordinates>0.6263333333333333,51.6705,56</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_509">
+            <name>Stratford AS (57m)</name>
+            <description>freq = 135.475: desc = 30m wide</description>
+            <LookAt>
+                <longitude>-1.6869999999999998</longitude>
+                <latitude>52.162</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_506">
+                <coordinates>-1.6869999999999998,52.162,57</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_510">
+            <name>Sturgate AS (18m)</name>
+            <description>freq = 130.3: desc = </description>
+            <LookAt>
+                <longitude>-0.6852833333333332</longitude>
+                <latitude>53.381116666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_507">
+                <coordinates>-0.6852833333333332,53.381116666666664,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_511">
+            <name>Sutton Meadows M/L (2m)</name>
+            <description>freq = 129.825: desc = 045-225 is about 30m, others 24m</description>
+            <LookAt>
+                <longitude>0.060000000000000005</longitude>
+                <latitude>52.385</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_508">
+                <coordinates>0.060000000000000005,52.385,2</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_512">
+            <name>Swanborough AS (3m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.0013333333333333333</longitude>
+                <latitude>50.8535</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_509">
+                <coordinates>0.0013333333333333333,50.8535,3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_513">
+            <name>Swansea AF (87m)</name>
+            <description>freq = 119.700: desc = </description>
+            <LookAt>
+                <longitude>-4.072966666666667</longitude>
+                <latitude>51.60431666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_510">
+                <coordinates>-4.072966666666667,51.60431666666667,87</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_514">
+            <name>Syerston MIL (69m)</name>
+            <description>freq = 128.525: desc = </description>
+            <LookAt>
+                <longitude>-0.913</longitude>
+                <latitude>53.0225</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_511">
+                <coordinates>-0.913,53.0225,69</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_515">
+            <name>Sywell AF (128m)</name>
+            <description>freq = 122.705: desc = </description>
+            <LookAt>
+                <longitude>-0.7930499999999999</longitude>
+                <latitude>52.305283333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_512">
+                <coordinates>-0.7930499999999999,52.305283333333335,128</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_516">
+            <name>Talybont AS (15m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-4.076666666666666</longitude>
+                <latitude>52.61216666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_513">
+                <coordinates>-4.076666666666666,52.61216666666667,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_517">
+            <name>Tatenhill AF (134m)</name>
+            <description>freq = 124.075: desc = </description>
+            <LookAt>
+                <longitude>-1.7647166666666667</longitude>
+                <latitude>52.814166666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_514">
+                <coordinates>-1.7647166666666667,52.814166666666665,134</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_518">
+            <name>Temple Bruer AF (73m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.5128333333333334</longitude>
+                <latitude>53.07666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_515">
+                <coordinates>-0.5128333333333334,53.07666666666667,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_519">
+            <name>Temple Bruer AS (73m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.5128333333333334</longitude>
+                <latitude>53.07666666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_516">
+                <coordinates>-0.5128333333333334,53.07666666666667,73</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_520">
+            <name>Templeton AS (81m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-4.755</longitude>
+                <latitude>51.763616666666664</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_517">
+                <coordinates>-4.755,51.763616666666664,81</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_521">
+            <name>Ternhill MIL (82m)</name>
+            <description>freq = 122.1: desc = </description>
+            <LookAt>
+                <longitude>-2.532</longitude>
+                <latitude>52.873666666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_518">
+                <coordinates>-2.532,52.873666666666665,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_522">
+            <name>Thorney Island DU (5m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.92</longitude>
+                <latitude>50.816383333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_519">
+                <coordinates>-0.92,50.816383333333334,5</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_523">
+            <name>Thruxton AF (98m)</name>
+            <description>freq = 130.45: desc = </description>
+            <LookAt>
+                <longitude>-1.6</longitude>
+                <latitude>51.21055</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_520">
+                <coordinates>-1.6,51.21055,98</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_524">
+            <name>Thurrock AS (9m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.36778333333333335</longitude>
+                <latitude>51.53695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_521">
+                <coordinates>0.36778333333333335,51.53695,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_525">
+            <name>Tilstock AS (92m)</name>
+            <description>freq = 118.105: desc = freq 1/3/18</description>
+            <LookAt>
+                <longitude>-2.6463833333333335</longitude>
+                <latitude>52.93195</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_522">
+                <coordinates>-2.6463833333333335,52.93195,92</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_526">
+            <name>Top Farm AS (61m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-0.12000000000000001</longitude>
+                <latitude>52.12416666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_523">
+                <coordinates>-0.12000000000000001,52.12416666666667,61</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_527">
+            <name>Topcliffe MIL (28m)</name>
+            <description>freq = 125.000: desc = </description>
+            <LookAt>
+                <longitude>-1.38195</longitude>
+                <latitude>54.20555</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_524">
+                <coordinates>-1.38195,54.20555,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_528">
+            <name>Truro AF (121m)</name>
+            <description>freq = 129.800: desc = </description>
+            <LookAt>
+                <longitude>-5.1425</longitude>
+                <latitude>50.278616666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_525">
+                <coordinates>-5.1425,50.278616666666665,121</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_529">
+            <name>Turweston AF (137m)</name>
+            <description>freq = 122.175: desc = </description>
+            <LookAt>
+                <longitude>-1.09555</longitude>
+                <latitude>52.04083333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_526">
+                <coordinates>-1.09555,52.04083333333333,137</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_530">
+            <name>Valley MIL (11m)</name>
+            <description>freq = 125.225: desc = </description>
+            <LookAt>
+                <longitude>-4.535283333333333</longitude>
+                <latitude>53.24805</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_527">
+                <coordinates>-4.535283333333333,53.24805,11</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_531">
+            <name>Waddington MIL (70m)</name>
+            <description>freq = 119.500: desc = CMATZ 124.45 App 119.5 Twr 121.300</description>
+            <LookAt>
+                <longitude>-0.5238833333333334</longitude>
+                <latitude>53.16611666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_528">
+                <coordinates>-0.5238833333333334,53.16611666666667,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_532">
+            <name>Wadswick AS (121m)</name>
+            <description>freq = 135.475: desc = Colerne tower 120.075</description>
+            <LookAt>
+                <longitude>-2.220833333333333</longitude>
+                <latitude>51.41116666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_529">
+                <coordinates>-2.220833333333333,51.41116666666667,121</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_533">
+            <name>Warrington AF (15m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.5083333333333333</longitude>
+                <latitude>53.41028333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_530">
+                <coordinates>-2.5083333333333333,53.41028333333333,15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_534">
+            <name>Warton AF (18m)</name>
+            <description>freq = 129.530: desc = List Sq 3660</description>
+            <LookAt>
+                <longitude>-2.88305</longitude>
+                <latitude>53.745</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_531">
+                <coordinates>-2.88305,53.745,18</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_535">
+            <name>Wattisham MIL (86m)</name>
+            <description>freq = 125.8: desc = </description>
+            <LookAt>
+                <longitude>0.9553333333333334</longitude>
+                <latitude>52.127</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_532">
+                <coordinates>0.9553333333333334,52.127,86</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_536">
+            <name>Wellesbourne AF (49m)</name>
+            <description>freq = 124.025: desc = </description>
+            <LookAt>
+                <longitude>-1.61445</longitude>
+                <latitude>52.19221666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_533">
+                <coordinates>-1.61445,52.19221666666667,49</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_537">
+            <name>Welshpool AF (70m)</name>
+            <description>freq = 128.0: desc = </description>
+            <LookAt>
+                <longitude>-3.1525</longitude>
+                <latitude>52.62945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_534">
+                <coordinates>-3.1525,52.62945,70</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_538">
+            <name>West Raynham AF (75m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.7428333333333333</longitude>
+                <latitude>52.78916666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_535">
+                <coordinates>0.7428333333333333,52.78916666666667,75</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_539">
+            <name>Weston Zoyland AF (10m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.903</longitude>
+                <latitude>51.105</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_536">
+                <coordinates>-2.903,51.105,10</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_540">
+            <name>Wethersfield G (97m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.51</longitude>
+                <latitude>51.970666666666666</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_537">
+                <coordinates>0.51,51.970666666666666,97</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_541">
+            <name>Wharf Farm AS (101m)</name>
+            <description>freq = 135.475: desc = 34m on E-W runway</description>
+            <LookAt>
+                <longitude>-1.4163333333333332</longitude>
+                <latitude>52.627833333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_538">
+                <coordinates>-1.4163333333333332,52.627833333333335,101</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_542">
+            <name>White Walthm AF (40m)</name>
+            <description>freq = 122.6: desc = </description>
+            <LookAt>
+                <longitude>-0.77445</longitude>
+                <latitude>51.50083333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_539">
+                <coordinates>-0.77445,51.50083333333333,40</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_543">
+            <name>Wickenby AF (24m)</name>
+            <description>freq = 122.455: desc = freq 1/3/18</description>
+            <LookAt>
+                <longitude>-0.3488833333333333</longitude>
+                <latitude>53.31695</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_540">
+                <coordinates>-0.3488833333333333,53.31695,24</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_544">
+            <name>Willingham AS (14m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>0.041666666666666664</longitude>
+                <latitude>52.30833333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_541">
+                <coordinates>0.041666666666666664,52.30833333333333,14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_545">
+            <name>Wing Farm AS (137m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.2103333333333333</longitude>
+                <latitude>51.163833333333336</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_542">
+                <coordinates>-2.2103333333333333,51.163833333333336,137</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_546">
+            <name>Wittering MIL (81m)</name>
+            <description>freq = 119.675: desc = </description>
+            <LookAt>
+                <longitude>-0.4763833333333333</longitude>
+                <latitude>52.613616666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_543">
+                <coordinates>-0.4763833333333333,52.613616666666665,81</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_547">
+            <name>Woodbridge AS (29m)</name>
+            <description>freq = 122.1: desc = </description>
+            <LookAt>
+                <longitude>1.4058333333333333</longitude>
+                <latitude>52.09</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_544">
+                <coordinates>1.4058333333333333,52.09,29</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_548">
+            <name>Woodford AF (89m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-2.148833333333333</longitude>
+                <latitude>53.338</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_545">
+                <coordinates>-2.148833333333333,53.338,89</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_549">
+            <name>Woodvale MIL (12m)</name>
+            <description>freq = 135.475: desc = </description>
+            <LookAt>
+                <longitude>-3.05555</longitude>
+                <latitude>53.581383333333335</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_546">
+                <coordinates>-3.05555,53.581383333333335,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_550">
+            <name>Wyton MIL (40m)</name>
+            <description>freq = 134.05: desc = Twr 126.850</description>
+            <LookAt>
+                <longitude>-0.10783333333333332</longitude>
+                <latitude>52.357</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_547">
+                <coordinates>-0.10783333333333332,52.357,40</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

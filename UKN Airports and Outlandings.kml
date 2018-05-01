@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>Aberdeen AF (62m)</name>
+            <description>freq = 119.050: desc = </description>
+            <LookAt>
+                <longitude>-2.2001666666666666</longitude>
+                <latitude>57.20373333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_0">
+                <coordinates>-2.2001666666666666,57.20373333333333,62</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Cumbernald AF (105m)</name>
+            <description>freq = 120.605: desc = </description>
+            <LookAt>
+                <longitude>-3.9753166666666666</longitude>
+                <latitude>55.97441666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_1">
+                <coordinates>-3.9753166666666666,55.97441666666667,105</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Dounreay DU (36m)</name>
+            <description>freq = 122.4: desc = </description>
+            <LookAt>
+                <longitude>-3.7266666666666666</longitude>
+                <latitude>58.58388333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_2">
+                <coordinates>-3.7266666666666666,58.58388333333333,36</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Dundee AF (4m)</name>
+            <description>freq = 122.900: desc = </description>
+            <LookAt>
+                <longitude>-3.02495</longitude>
+                <latitude>56.45245</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_3">
+                <coordinates>-3.02495,56.45245,4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>Edinburgh AF (28m)</name>
+            <description>freq = 121.200: desc = List Sq 0440</description>
+            <LookAt>
+                <longitude>-3.36145</longitude>
+                <latitude>55.950783333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_4">
+                <coordinates>-3.36145,55.950783333333334,28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Errol Para AF (9m)</name>
+            <description>freq = 129.9: desc = </description>
+            <LookAt>
+                <longitude>-3.182</longitude>
+                <latitude>56.405</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_5">
+                <coordinates>-3.182,56.405,9</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>Eshott AF (60m)</name>
+            <description>freq = 122.850: desc = </description>
+            <LookAt>
+                <longitude>-1.7144499999999998</longitude>
+                <latitude>55.280833333333334</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_6">
+                <coordinates>-1.7144499999999998,55.280833333333334,60</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>Glasgow AF (19m)</name>
+            <description>freq = 119.100: desc = List sq 2620</description>
+            <LookAt>
+                <longitude>-4.415016666666666</longitude>
+                <latitude>55.86375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_7">
+                <coordinates>-4.415016666666666,55.86375,19</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>Inverness AF (7m)</name>
+            <description>freq = 122.600: desc = </description>
+            <LookAt>
+                <longitude>-4.049183333333334</longitude>
+                <latitude>57.541916666666665</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_8">
+                <coordinates>-4.049183333333334,57.541916666666665,7</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Islay AF (12m)</name>
+            <description>freq = 123.150: desc = </description>
+            <LookAt>
+                <longitude>-6.252466666666667</longitude>
+                <latitude>55.68253333333333</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_9">
+                <coordinates>-6.252466666666667,55.68253333333333,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Kirknewton AF (198m)</name>
+            <description>freq = 121.2: desc = </description>
+            <LookAt>
+                <longitude>-3.4</longitude>
+                <latitude>55.87416666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_10">
+                <coordinates>-3.4,55.87416666666667,198</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Leuchars MIL (11m)</name>
+            <description>freq = 126.500: desc = </description>
+            <LookAt>
+                <longitude>-2.8685</longitude>
+                <latitude>56.37266666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_11">
+                <coordinates>-2.8685,56.37266666666667,11</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Lossiemouth MIL (12m)</name>
+            <description>freq = 119.575: desc = </description>
+            <LookAt>
+                <longitude>-3.3393333333333333</longitude>
+                <latitude>57.705</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_12">
+                <coordinates>-3.3393333333333333,57.705,12</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Newcastle AF (82m)</name>
+            <description>freq = 124.380: desc = freq 26/4/18</description>
+            <LookAt>
+                <longitude>-1.6916666666666667</longitude>
+                <latitude>55.0375</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_13">
+                <coordinates>-1.6916666666666667,55.0375,82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Oban AF (7m)</name>
+            <description>freq = 118.05: desc = </description>
+            <LookAt>
+                <longitude>-5.4</longitude>
+                <latitude>56.46366666666667</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_14">
+                <coordinates>-5.4,56.46366666666667,7</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Perth (118m)</name>
+            <description>freq = 119.800: desc = </description>
+            <LookAt>
+                <longitude>-3.3739333333333335</longitude>
+                <latitude>56.4357</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_15">
+                <coordinates>-3.3739333333333335,56.4357,118</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>Prestwick AF (21m)</name>
+            <description>freq = 129.450: desc = </description>
+            <LookAt>
+                <longitude>-4.59445</longitude>
+                <latitude>55.50945</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_16">
+                <coordinates>-4.59445,55.50945,21</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Strathallan AF (36m)</name>
+            <description>freq = 129.9: desc = Para jumping</description>
+            <LookAt>
+                <longitude>-3.748666666666667</longitude>
+                <latitude>56.325</latitude>
+                <heading>0</heading>
+                <tilt>30</tilt>
+                <range>5000</range>
+            </LookAt>
+            <Point id="geom_17">
+                <coordinates>-3.748666666666667,56.325,36</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
